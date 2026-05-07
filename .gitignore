@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Build folders
+dist/
+build/
+
+# Environment files
+.env
+
+# Mac files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log

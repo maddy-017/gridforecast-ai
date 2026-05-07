@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Pavagada Solar Park",
+    "type": "solar",
+    "capacity_mw": 200,
+    "lat": 14.1,
+    "lon": 77.28,
+    "region": "Tumkur",
+    "current_output_mw": 0,
+    "today_forecast_avg": 27.23
+  },
+  {
+    "name": "Raichur Solar",
+    "type": "solar",
+    "capacity_mw": 130,
+    "lat": 16.2,
+    "lon": 77.35,
+    "region": "Raichur",
+    "current_output_mw": 0,
+    "today_forecast_avg": 15.75
+  },
+  {
+    "name": "Bidar Solar",
+    "type": "solar",
+    "capacity_mw": 90,
+    "lat": 17.92,
+    "lon": 77.52,
+    "region": "Bidar",
+    "current_output_mw": 0,
+    "today_forecast_avg": 11.43
+  },
+  {
+    "name": "Chitradurga Wind Cluster",
+    "type": "wind",
+    "capacity_mw": 150,
+    "lat": 14.23,
+    "lon": 76.4,
+    "region": "Chitradurga",
+    "current_output_mw": 4.03,
+    "today_forecast_avg": 84.19
+  },
+  {
+    "name": "Gadag Wind Farm",
+    "type": "wind",
+    "capacity_mw": 200,
+    "lat": 15.43,
+    "lon": 75.63,
+    "region": "Gadag",
+    "current_output_mw": 0.0,
+    "today_forecast_avg": 97.39
+  },
+  {
+    "name": "Davangere Wind",
+    "type": "wind",
+    "capacity_mw": 120,
+    "lat": 14.46,
+    "lon": 75.92,
+    "region": "Davangere",
+    "current_output_mw": 0.94,
+    "today_forecast_avg": 57.97
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "total_capacity_mw": 890,
+  "solar_capacity_mw": 420,
+  "wind_capacity_mw": 470,
+  "num_plants": 6,
+  "forecast_period": "2024-04-25 00:00 to 2024-04-25 23:00",
+  "generated_at": "2026-05-05T11:20:49.887025"
+}

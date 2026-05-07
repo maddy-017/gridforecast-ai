@@ -1,0 +1,1015 @@
+timestamp,plant_name,plant_type,capacity_mw,generation_mw,lat,lon,region
+2024-04-17T23:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T00:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T01:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T02:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T03:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T04:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T05:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T06:00:00,Pavagada Solar Park,solar,200,1.88,14.1,77.28,Tumkur
+2024-04-18T07:00:00,Pavagada Solar Park,solar,200,2.19,14.1,77.28,Tumkur
+2024-04-18T08:00:00,Pavagada Solar Park,solar,200,19.19,14.1,77.28,Tumkur
+2024-04-18T09:00:00,Pavagada Solar Park,solar,200,50.89,14.1,77.28,Tumkur
+2024-04-18T10:00:00,Pavagada Solar Park,solar,200,72.67,14.1,77.28,Tumkur
+2024-04-18T11:00:00,Pavagada Solar Park,solar,200,116.02,14.1,77.28,Tumkur
+2024-04-18T12:00:00,Pavagada Solar Park,solar,200,122.32,14.1,77.28,Tumkur
+2024-04-18T13:00:00,Pavagada Solar Park,solar,200,130.75,14.1,77.28,Tumkur
+2024-04-18T14:00:00,Pavagada Solar Park,solar,200,79.0,14.1,77.28,Tumkur
+2024-04-18T15:00:00,Pavagada Solar Park,solar,200,62.47,14.1,77.28,Tumkur
+2024-04-18T16:00:00,Pavagada Solar Park,solar,200,49.89,14.1,77.28,Tumkur
+2024-04-18T17:00:00,Pavagada Solar Park,solar,200,19.45,14.1,77.28,Tumkur
+2024-04-18T18:00:00,Pavagada Solar Park,solar,200,2.15,14.1,77.28,Tumkur
+2024-04-18T19:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T20:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T21:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T22:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-18T23:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T00:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T01:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T02:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T03:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T04:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T05:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T06:00:00,Pavagada Solar Park,solar,200,2.18,14.1,77.28,Tumkur
+2024-04-19T07:00:00,Pavagada Solar Park,solar,200,2.22,14.1,77.28,Tumkur
+2024-04-19T08:00:00,Pavagada Solar Park,solar,200,18.3,14.1,77.28,Tumkur
+2024-04-19T09:00:00,Pavagada Solar Park,solar,200,42.28,14.1,77.28,Tumkur
+2024-04-19T10:00:00,Pavagada Solar Park,solar,200,67.56,14.1,77.28,Tumkur
+2024-04-19T11:00:00,Pavagada Solar Park,solar,200,110.23,14.1,77.28,Tumkur
+2024-04-19T12:00:00,Pavagada Solar Park,solar,200,125.96,14.1,77.28,Tumkur
+2024-04-19T13:00:00,Pavagada Solar Park,solar,200,124.86,14.1,77.28,Tumkur
+2024-04-19T14:00:00,Pavagada Solar Park,solar,200,70.91,14.1,77.28,Tumkur
+2024-04-19T15:00:00,Pavagada Solar Park,solar,200,76.33,14.1,77.28,Tumkur
+2024-04-19T16:00:00,Pavagada Solar Park,solar,200,41.14,14.1,77.28,Tumkur
+2024-04-19T17:00:00,Pavagada Solar Park,solar,200,19.79,14.1,77.28,Tumkur
+2024-04-19T18:00:00,Pavagada Solar Park,solar,200,2.03,14.1,77.28,Tumkur
+2024-04-19T19:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T20:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T21:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T22:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-19T23:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T00:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T01:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T02:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T03:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T04:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T05:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T06:00:00,Pavagada Solar Park,solar,200,2.01,14.1,77.28,Tumkur
+2024-04-20T07:00:00,Pavagada Solar Park,solar,200,2.24,14.1,77.28,Tumkur
+2024-04-20T08:00:00,Pavagada Solar Park,solar,200,17.89,14.1,77.28,Tumkur
+2024-04-20T09:00:00,Pavagada Solar Park,solar,200,44.73,14.1,77.28,Tumkur
+2024-04-20T10:00:00,Pavagada Solar Park,solar,200,82.18,14.1,77.28,Tumkur
+2024-04-20T11:00:00,Pavagada Solar Park,solar,200,130.24,14.1,77.28,Tumkur
+2024-04-20T12:00:00,Pavagada Solar Park,solar,200,123.73,14.1,77.28,Tumkur
+2024-04-20T13:00:00,Pavagada Solar Park,solar,200,124.33,14.1,77.28,Tumkur
+2024-04-20T14:00:00,Pavagada Solar Park,solar,200,96.5,14.1,77.28,Tumkur
+2024-04-20T15:00:00,Pavagada Solar Park,solar,200,73.96,14.1,77.28,Tumkur
+2024-04-20T16:00:00,Pavagada Solar Park,solar,200,36.48,14.1,77.28,Tumkur
+2024-04-20T17:00:00,Pavagada Solar Park,solar,200,12.23,14.1,77.28,Tumkur
+2024-04-20T18:00:00,Pavagada Solar Park,solar,200,2.12,14.1,77.28,Tumkur
+2024-04-20T19:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T20:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T21:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T22:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-20T23:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T00:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T01:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T02:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T03:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T04:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T05:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T06:00:00,Pavagada Solar Park,solar,200,1.49,14.1,77.28,Tumkur
+2024-04-21T07:00:00,Pavagada Solar Park,solar,200,2.32,14.1,77.28,Tumkur
+2024-04-21T08:00:00,Pavagada Solar Park,solar,200,16.36,14.1,77.28,Tumkur
+2024-04-21T09:00:00,Pavagada Solar Park,solar,200,42.25,14.1,77.28,Tumkur
+2024-04-21T10:00:00,Pavagada Solar Park,solar,200,92.57,14.1,77.28,Tumkur
+2024-04-21T11:00:00,Pavagada Solar Park,solar,200,92.18,14.1,77.28,Tumkur
+2024-04-21T12:00:00,Pavagada Solar Park,solar,200,112.11,14.1,77.28,Tumkur
+2024-04-21T13:00:00,Pavagada Solar Park,solar,200,123.0,14.1,77.28,Tumkur
+2024-04-21T14:00:00,Pavagada Solar Park,solar,200,101.73,14.1,77.28,Tumkur
+2024-04-21T15:00:00,Pavagada Solar Park,solar,200,79.52,14.1,77.28,Tumkur
+2024-04-21T16:00:00,Pavagada Solar Park,solar,200,48.68,14.1,77.28,Tumkur
+2024-04-21T17:00:00,Pavagada Solar Park,solar,200,19.67,14.1,77.28,Tumkur
+2024-04-21T18:00:00,Pavagada Solar Park,solar,200,1.97,14.1,77.28,Tumkur
+2024-04-21T19:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T20:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T21:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T22:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-21T23:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T00:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T01:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T02:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T03:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T04:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T05:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T06:00:00,Pavagada Solar Park,solar,200,2.04,14.1,77.28,Tumkur
+2024-04-22T07:00:00,Pavagada Solar Park,solar,200,2.41,14.1,77.28,Tumkur
+2024-04-22T08:00:00,Pavagada Solar Park,solar,200,19.8,14.1,77.28,Tumkur
+2024-04-22T09:00:00,Pavagada Solar Park,solar,200,47.04,14.1,77.28,Tumkur
+2024-04-22T10:00:00,Pavagada Solar Park,solar,200,89.85,14.1,77.28,Tumkur
+2024-04-22T11:00:00,Pavagada Solar Park,solar,200,87.41,14.1,77.28,Tumkur
+2024-04-22T12:00:00,Pavagada Solar Park,solar,200,132.59,14.1,77.28,Tumkur
+2024-04-22T13:00:00,Pavagada Solar Park,solar,200,133.26,14.1,77.28,Tumkur
+2024-04-22T14:00:00,Pavagada Solar Park,solar,200,105.04,14.1,77.28,Tumkur
+2024-04-22T15:00:00,Pavagada Solar Park,solar,200,89.61,14.1,77.28,Tumkur
+2024-04-22T16:00:00,Pavagada Solar Park,solar,200,45.3,14.1,77.28,Tumkur
+2024-04-22T17:00:00,Pavagada Solar Park,solar,200,14.88,14.1,77.28,Tumkur
+2024-04-22T18:00:00,Pavagada Solar Park,solar,200,2.28,14.1,77.28,Tumkur
+2024-04-22T19:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T20:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T21:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T22:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-22T23:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T00:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T01:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T02:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T03:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T04:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T05:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T06:00:00,Pavagada Solar Park,solar,200,2.19,14.1,77.28,Tumkur
+2024-04-23T07:00:00,Pavagada Solar Park,solar,200,2.37,14.1,77.28,Tumkur
+2024-04-23T08:00:00,Pavagada Solar Park,solar,200,14.27,14.1,77.28,Tumkur
+2024-04-23T09:00:00,Pavagada Solar Park,solar,200,42.56,14.1,77.28,Tumkur
+2024-04-23T10:00:00,Pavagada Solar Park,solar,200,78.03,14.1,77.28,Tumkur
+2024-04-23T11:00:00,Pavagada Solar Park,solar,200,78.52,14.1,77.28,Tumkur
+2024-04-23T12:00:00,Pavagada Solar Park,solar,200,113.22,14.1,77.28,Tumkur
+2024-04-23T13:00:00,Pavagada Solar Park,solar,200,126.73,14.1,77.28,Tumkur
+2024-04-23T14:00:00,Pavagada Solar Park,solar,200,105.75,14.1,77.28,Tumkur
+2024-04-23T15:00:00,Pavagada Solar Park,solar,200,71.1,14.1,77.28,Tumkur
+2024-04-23T16:00:00,Pavagada Solar Park,solar,200,36.59,14.1,77.28,Tumkur
+2024-04-23T17:00:00,Pavagada Solar Park,solar,200,16.41,14.1,77.28,Tumkur
+2024-04-23T18:00:00,Pavagada Solar Park,solar,200,2.21,14.1,77.28,Tumkur
+2024-04-23T19:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T20:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T21:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T22:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-23T23:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T00:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T01:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T02:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T03:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T04:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T05:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T06:00:00,Pavagada Solar Park,solar,200,1.89,14.1,77.28,Tumkur
+2024-04-24T07:00:00,Pavagada Solar Park,solar,200,2.21,14.1,77.28,Tumkur
+2024-04-24T08:00:00,Pavagada Solar Park,solar,200,15.65,14.1,77.28,Tumkur
+2024-04-24T09:00:00,Pavagada Solar Park,solar,200,38.39,14.1,77.28,Tumkur
+2024-04-24T10:00:00,Pavagada Solar Park,solar,200,73.72,14.1,77.28,Tumkur
+2024-04-24T11:00:00,Pavagada Solar Park,solar,200,84.67,14.1,77.28,Tumkur
+2024-04-24T12:00:00,Pavagada Solar Park,solar,200,104.44,14.1,77.28,Tumkur
+2024-04-24T13:00:00,Pavagada Solar Park,solar,200,122.94,14.1,77.28,Tumkur
+2024-04-24T14:00:00,Pavagada Solar Park,solar,200,114.96,14.1,77.28,Tumkur
+2024-04-24T15:00:00,Pavagada Solar Park,solar,200,65.53,14.1,77.28,Tumkur
+2024-04-24T16:00:00,Pavagada Solar Park,solar,200,44.33,14.1,77.28,Tumkur
+2024-04-24T17:00:00,Pavagada Solar Park,solar,200,14.21,14.1,77.28,Tumkur
+2024-04-24T18:00:00,Pavagada Solar Park,solar,200,2.58,14.1,77.28,Tumkur
+2024-04-24T19:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T20:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T21:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T22:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-24T23:00:00,Pavagada Solar Park,solar,200,0.0,14.1,77.28,Tumkur
+2024-04-17T23:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T00:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T01:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T02:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T03:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T04:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T05:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T06:00:00,Raichur Solar,solar,130,1.37,16.2,77.35,Raichur
+2024-04-18T07:00:00,Raichur Solar,solar,130,1.13,16.2,77.35,Raichur
+2024-04-18T08:00:00,Raichur Solar,solar,130,9.57,16.2,77.35,Raichur
+2024-04-18T09:00:00,Raichur Solar,solar,130,28.23,16.2,77.35,Raichur
+2024-04-18T10:00:00,Raichur Solar,solar,130,50.82,16.2,77.35,Raichur
+2024-04-18T11:00:00,Raichur Solar,solar,130,72.09,16.2,77.35,Raichur
+2024-04-18T12:00:00,Raichur Solar,solar,130,73.79,16.2,77.35,Raichur
+2024-04-18T13:00:00,Raichur Solar,solar,130,60.77,16.2,77.35,Raichur
+2024-04-18T14:00:00,Raichur Solar,solar,130,69.86,16.2,77.35,Raichur
+2024-04-18T15:00:00,Raichur Solar,solar,130,38.45,16.2,77.35,Raichur
+2024-04-18T16:00:00,Raichur Solar,solar,130,27.49,16.2,77.35,Raichur
+2024-04-18T17:00:00,Raichur Solar,solar,130,11.56,16.2,77.35,Raichur
+2024-04-18T18:00:00,Raichur Solar,solar,130,1.08,16.2,77.35,Raichur
+2024-04-18T19:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T20:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T21:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T22:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-18T23:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T00:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T01:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T02:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T03:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T04:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T05:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T06:00:00,Raichur Solar,solar,130,1.15,16.2,77.35,Raichur
+2024-04-19T07:00:00,Raichur Solar,solar,130,1.55,16.2,77.35,Raichur
+2024-04-19T08:00:00,Raichur Solar,solar,130,10.8,16.2,77.35,Raichur
+2024-04-19T09:00:00,Raichur Solar,solar,130,27.97,16.2,77.35,Raichur
+2024-04-19T10:00:00,Raichur Solar,solar,130,42.9,16.2,77.35,Raichur
+2024-04-19T11:00:00,Raichur Solar,solar,130,67.15,16.2,77.35,Raichur
+2024-04-19T12:00:00,Raichur Solar,solar,130,61.52,16.2,77.35,Raichur
+2024-04-19T13:00:00,Raichur Solar,solar,130,72.84,16.2,77.35,Raichur
+2024-04-19T14:00:00,Raichur Solar,solar,130,68.1,16.2,77.35,Raichur
+2024-04-19T15:00:00,Raichur Solar,solar,130,32.28,16.2,77.35,Raichur
+2024-04-19T16:00:00,Raichur Solar,solar,130,28.98,16.2,77.35,Raichur
+2024-04-19T17:00:00,Raichur Solar,solar,130,12.83,16.2,77.35,Raichur
+2024-04-19T18:00:00,Raichur Solar,solar,130,1.3,16.2,77.35,Raichur
+2024-04-19T19:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T20:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T21:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T22:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-19T23:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T00:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T01:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T02:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T03:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T04:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T05:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T06:00:00,Raichur Solar,solar,130,1.34,16.2,77.35,Raichur
+2024-04-20T07:00:00,Raichur Solar,solar,130,1.52,16.2,77.35,Raichur
+2024-04-20T08:00:00,Raichur Solar,solar,130,10.46,16.2,77.35,Raichur
+2024-04-20T09:00:00,Raichur Solar,solar,130,32.79,16.2,77.35,Raichur
+2024-04-20T10:00:00,Raichur Solar,solar,130,53.29,16.2,77.35,Raichur
+2024-04-20T11:00:00,Raichur Solar,solar,130,77.36,16.2,77.35,Raichur
+2024-04-20T12:00:00,Raichur Solar,solar,130,86.73,16.2,77.35,Raichur
+2024-04-20T13:00:00,Raichur Solar,solar,130,78.29,16.2,77.35,Raichur
+2024-04-20T14:00:00,Raichur Solar,solar,130,56.56,16.2,77.35,Raichur
+2024-04-20T15:00:00,Raichur Solar,solar,130,48.36,16.2,77.35,Raichur
+2024-04-20T16:00:00,Raichur Solar,solar,130,30.39,16.2,77.35,Raichur
+2024-04-20T17:00:00,Raichur Solar,solar,130,9.71,16.2,77.35,Raichur
+2024-04-20T18:00:00,Raichur Solar,solar,130,1.26,16.2,77.35,Raichur
+2024-04-20T19:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T20:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T21:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T22:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-20T23:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T00:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T01:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T02:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T03:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T04:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T05:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T06:00:00,Raichur Solar,solar,130,1.2,16.2,77.35,Raichur
+2024-04-21T07:00:00,Raichur Solar,solar,130,1.55,16.2,77.35,Raichur
+2024-04-21T08:00:00,Raichur Solar,solar,130,10.83,16.2,77.35,Raichur
+2024-04-21T09:00:00,Raichur Solar,solar,130,34.28,16.2,77.35,Raichur
+2024-04-21T10:00:00,Raichur Solar,solar,130,55.35,16.2,77.35,Raichur
+2024-04-21T11:00:00,Raichur Solar,solar,130,72.13,16.2,77.35,Raichur
+2024-04-21T12:00:00,Raichur Solar,solar,130,69.68,16.2,77.35,Raichur
+2024-04-21T13:00:00,Raichur Solar,solar,130,86.53,16.2,77.35,Raichur
+2024-04-21T14:00:00,Raichur Solar,solar,130,65.18,16.2,77.35,Raichur
+2024-04-21T15:00:00,Raichur Solar,solar,130,55.81,16.2,77.35,Raichur
+2024-04-21T16:00:00,Raichur Solar,solar,130,33.68,16.2,77.35,Raichur
+2024-04-21T17:00:00,Raichur Solar,solar,130,13.68,16.2,77.35,Raichur
+2024-04-21T18:00:00,Raichur Solar,solar,130,1.51,16.2,77.35,Raichur
+2024-04-21T19:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T20:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T21:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T22:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-21T23:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T00:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T01:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T02:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T03:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T04:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T05:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T06:00:00,Raichur Solar,solar,130,1.05,16.2,77.35,Raichur
+2024-04-22T07:00:00,Raichur Solar,solar,130,1.45,16.2,77.35,Raichur
+2024-04-22T08:00:00,Raichur Solar,solar,130,12.24,16.2,77.35,Raichur
+2024-04-22T09:00:00,Raichur Solar,solar,130,33.67,16.2,77.35,Raichur
+2024-04-22T10:00:00,Raichur Solar,solar,130,49.99,16.2,77.35,Raichur
+2024-04-22T11:00:00,Raichur Solar,solar,130,74.12,16.2,77.35,Raichur
+2024-04-22T12:00:00,Raichur Solar,solar,130,70.38,16.2,77.35,Raichur
+2024-04-22T13:00:00,Raichur Solar,solar,130,76.46,16.2,77.35,Raichur
+2024-04-22T14:00:00,Raichur Solar,solar,130,52.81,16.2,77.35,Raichur
+2024-04-22T15:00:00,Raichur Solar,solar,130,44.41,16.2,77.35,Raichur
+2024-04-22T16:00:00,Raichur Solar,solar,130,32.44,16.2,77.35,Raichur
+2024-04-22T17:00:00,Raichur Solar,solar,130,13.08,16.2,77.35,Raichur
+2024-04-22T18:00:00,Raichur Solar,solar,130,1.27,16.2,77.35,Raichur
+2024-04-22T19:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T20:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T21:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T22:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-22T23:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T00:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T01:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T02:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T03:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T04:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T05:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T06:00:00,Raichur Solar,solar,130,1.27,16.2,77.35,Raichur
+2024-04-23T07:00:00,Raichur Solar,solar,130,1.05,16.2,77.35,Raichur
+2024-04-23T08:00:00,Raichur Solar,solar,130,12.76,16.2,77.35,Raichur
+2024-04-23T09:00:00,Raichur Solar,solar,130,31.41,16.2,77.35,Raichur
+2024-04-23T10:00:00,Raichur Solar,solar,130,58.33,16.2,77.35,Raichur
+2024-04-23T11:00:00,Raichur Solar,solar,130,50.39,16.2,77.35,Raichur
+2024-04-23T12:00:00,Raichur Solar,solar,130,82.37,16.2,77.35,Raichur
+2024-04-23T13:00:00,Raichur Solar,solar,130,82.41,16.2,77.35,Raichur
+2024-04-23T14:00:00,Raichur Solar,solar,130,70.2,16.2,77.35,Raichur
+2024-04-23T15:00:00,Raichur Solar,solar,130,46.22,16.2,77.35,Raichur
+2024-04-23T16:00:00,Raichur Solar,solar,130,30.25,16.2,77.35,Raichur
+2024-04-23T17:00:00,Raichur Solar,solar,130,12.21,16.2,77.35,Raichur
+2024-04-23T18:00:00,Raichur Solar,solar,130,1.27,16.2,77.35,Raichur
+2024-04-23T19:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T20:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T21:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T22:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-23T23:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T00:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T01:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T02:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T03:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T04:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T05:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T06:00:00,Raichur Solar,solar,130,1.37,16.2,77.35,Raichur
+2024-04-24T07:00:00,Raichur Solar,solar,130,1.26,16.2,77.35,Raichur
+2024-04-24T08:00:00,Raichur Solar,solar,130,11.06,16.2,77.35,Raichur
+2024-04-24T09:00:00,Raichur Solar,solar,130,33.88,16.2,77.35,Raichur
+2024-04-24T10:00:00,Raichur Solar,solar,130,51.54,16.2,77.35,Raichur
+2024-04-24T11:00:00,Raichur Solar,solar,130,65.6,16.2,77.35,Raichur
+2024-04-24T12:00:00,Raichur Solar,solar,130,87.74,16.2,77.35,Raichur
+2024-04-24T13:00:00,Raichur Solar,solar,130,85.87,16.2,77.35,Raichur
+2024-04-24T14:00:00,Raichur Solar,solar,130,66.64,16.2,77.35,Raichur
+2024-04-24T15:00:00,Raichur Solar,solar,130,51.83,16.2,77.35,Raichur
+2024-04-24T16:00:00,Raichur Solar,solar,130,27.09,16.2,77.35,Raichur
+2024-04-24T17:00:00,Raichur Solar,solar,130,11.63,16.2,77.35,Raichur
+2024-04-24T18:00:00,Raichur Solar,solar,130,1.5,16.2,77.35,Raichur
+2024-04-24T19:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T20:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T21:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T22:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-24T23:00:00,Raichur Solar,solar,130,0.0,16.2,77.35,Raichur
+2024-04-17T23:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T00:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T01:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T02:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T03:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T04:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T05:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T06:00:00,Bidar Solar,solar,90,0.96,17.92,77.52,Bidar
+2024-04-18T07:00:00,Bidar Solar,solar,90,1.0,17.92,77.52,Bidar
+2024-04-18T08:00:00,Bidar Solar,solar,90,8.67,17.92,77.52,Bidar
+2024-04-18T09:00:00,Bidar Solar,solar,90,20.4,17.92,77.52,Bidar
+2024-04-18T10:00:00,Bidar Solar,solar,90,37.46,17.92,77.52,Bidar
+2024-04-18T11:00:00,Bidar Solar,solar,90,44.13,17.92,77.52,Bidar
+2024-04-18T12:00:00,Bidar Solar,solar,90,60.02,17.92,77.52,Bidar
+2024-04-18T13:00:00,Bidar Solar,solar,90,54.81,17.92,77.52,Bidar
+2024-04-18T14:00:00,Bidar Solar,solar,90,43.03,17.92,77.52,Bidar
+2024-04-18T15:00:00,Bidar Solar,solar,90,25.01,17.92,77.52,Bidar
+2024-04-18T16:00:00,Bidar Solar,solar,90,16.52,17.92,77.52,Bidar
+2024-04-18T17:00:00,Bidar Solar,solar,90,8.22,17.92,77.52,Bidar
+2024-04-18T18:00:00,Bidar Solar,solar,90,0.84,17.92,77.52,Bidar
+2024-04-18T19:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T20:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T21:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T22:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-18T23:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T00:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T01:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T02:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T03:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T04:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T05:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T06:00:00,Bidar Solar,solar,90,1.07,17.92,77.52,Bidar
+2024-04-19T07:00:00,Bidar Solar,solar,90,1.1,17.92,77.52,Bidar
+2024-04-19T08:00:00,Bidar Solar,solar,90,7.94,17.92,77.52,Bidar
+2024-04-19T09:00:00,Bidar Solar,solar,90,20.22,17.92,77.52,Bidar
+2024-04-19T10:00:00,Bidar Solar,solar,90,25.9,17.92,77.52,Bidar
+2024-04-19T11:00:00,Bidar Solar,solar,90,38.27,17.92,77.52,Bidar
+2024-04-19T12:00:00,Bidar Solar,solar,90,62.68,17.92,77.52,Bidar
+2024-04-19T13:00:00,Bidar Solar,solar,90,58.4,17.92,77.52,Bidar
+2024-04-19T14:00:00,Bidar Solar,solar,90,55.73,17.92,77.52,Bidar
+2024-04-19T15:00:00,Bidar Solar,solar,90,24.64,17.92,77.52,Bidar
+2024-04-19T16:00:00,Bidar Solar,solar,90,22.32,17.92,77.52,Bidar
+2024-04-19T17:00:00,Bidar Solar,solar,90,7.4,17.92,77.52,Bidar
+2024-04-19T18:00:00,Bidar Solar,solar,90,1.03,17.92,77.52,Bidar
+2024-04-19T19:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T20:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T21:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T22:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-19T23:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T00:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T01:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T02:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T03:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T04:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T05:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T06:00:00,Bidar Solar,solar,90,0.8,17.92,77.52,Bidar
+2024-04-20T07:00:00,Bidar Solar,solar,90,0.99,17.92,77.52,Bidar
+2024-04-20T08:00:00,Bidar Solar,solar,90,8.29,17.92,77.52,Bidar
+2024-04-20T09:00:00,Bidar Solar,solar,90,23.59,17.92,77.52,Bidar
+2024-04-20T10:00:00,Bidar Solar,solar,90,33.86,17.92,77.52,Bidar
+2024-04-20T11:00:00,Bidar Solar,solar,90,56.55,17.92,77.52,Bidar
+2024-04-20T12:00:00,Bidar Solar,solar,90,63.69,17.92,77.52,Bidar
+2024-04-20T13:00:00,Bidar Solar,solar,90,56.58,17.92,77.52,Bidar
+2024-04-20T14:00:00,Bidar Solar,solar,90,54.86,17.92,77.52,Bidar
+2024-04-20T15:00:00,Bidar Solar,solar,90,30.32,17.92,77.52,Bidar
+2024-04-20T16:00:00,Bidar Solar,solar,90,21.2,17.92,77.52,Bidar
+2024-04-20T17:00:00,Bidar Solar,solar,90,9.68,17.92,77.52,Bidar
+2024-04-20T18:00:00,Bidar Solar,solar,90,0.83,17.92,77.52,Bidar
+2024-04-20T19:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T20:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T21:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T22:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-20T23:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T00:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T01:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T02:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T03:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T04:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T05:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T06:00:00,Bidar Solar,solar,90,0.99,17.92,77.52,Bidar
+2024-04-21T07:00:00,Bidar Solar,solar,90,0.73,17.92,77.52,Bidar
+2024-04-21T08:00:00,Bidar Solar,solar,90,9.13,17.92,77.52,Bidar
+2024-04-21T09:00:00,Bidar Solar,solar,90,18.42,17.92,77.52,Bidar
+2024-04-21T10:00:00,Bidar Solar,solar,90,36.21,17.92,77.52,Bidar
+2024-04-21T11:00:00,Bidar Solar,solar,90,51.62,17.92,77.52,Bidar
+2024-04-21T12:00:00,Bidar Solar,solar,90,56.92,17.92,77.52,Bidar
+2024-04-21T13:00:00,Bidar Solar,solar,90,50.01,17.92,77.52,Bidar
+2024-04-21T14:00:00,Bidar Solar,solar,90,50.28,17.92,77.52,Bidar
+2024-04-21T15:00:00,Bidar Solar,solar,90,31.17,17.92,77.52,Bidar
+2024-04-21T16:00:00,Bidar Solar,solar,90,16.91,17.92,77.52,Bidar
+2024-04-21T17:00:00,Bidar Solar,solar,90,6.77,17.92,77.52,Bidar
+2024-04-21T18:00:00,Bidar Solar,solar,90,0.9,17.92,77.52,Bidar
+2024-04-21T19:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T20:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T21:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T22:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-21T23:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T00:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T01:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T02:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T03:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T04:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T05:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T06:00:00,Bidar Solar,solar,90,0.78,17.92,77.52,Bidar
+2024-04-22T07:00:00,Bidar Solar,solar,90,0.82,17.92,77.52,Bidar
+2024-04-22T08:00:00,Bidar Solar,solar,90,8.05,17.92,77.52,Bidar
+2024-04-22T09:00:00,Bidar Solar,solar,90,19.69,17.92,77.52,Bidar
+2024-04-22T10:00:00,Bidar Solar,solar,90,33.37,17.92,77.52,Bidar
+2024-04-22T11:00:00,Bidar Solar,solar,90,51.91,17.92,77.52,Bidar
+2024-04-22T12:00:00,Bidar Solar,solar,90,63.23,17.92,77.52,Bidar
+2024-04-22T13:00:00,Bidar Solar,solar,90,55.34,17.92,77.52,Bidar
+2024-04-22T14:00:00,Bidar Solar,solar,90,48.85,17.92,77.52,Bidar
+2024-04-22T15:00:00,Bidar Solar,solar,90,31.49,17.92,77.52,Bidar
+2024-04-22T16:00:00,Bidar Solar,solar,90,20.72,17.92,77.52,Bidar
+2024-04-22T17:00:00,Bidar Solar,solar,90,7.44,17.92,77.52,Bidar
+2024-04-22T18:00:00,Bidar Solar,solar,90,1.08,17.92,77.52,Bidar
+2024-04-22T19:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T20:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T21:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T22:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-22T23:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T00:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T01:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T02:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T03:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T04:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T05:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T06:00:00,Bidar Solar,solar,90,1.1,17.92,77.52,Bidar
+2024-04-23T07:00:00,Bidar Solar,solar,90,0.93,17.92,77.52,Bidar
+2024-04-23T08:00:00,Bidar Solar,solar,90,7.57,17.92,77.52,Bidar
+2024-04-23T09:00:00,Bidar Solar,solar,90,17.06,17.92,77.52,Bidar
+2024-04-23T10:00:00,Bidar Solar,solar,90,37.97,17.92,77.52,Bidar
+2024-04-23T11:00:00,Bidar Solar,solar,90,46.86,17.92,77.52,Bidar
+2024-04-23T12:00:00,Bidar Solar,solar,90,37.44,17.92,77.52,Bidar
+2024-04-23T13:00:00,Bidar Solar,solar,90,50.65,17.92,77.52,Bidar
+2024-04-23T14:00:00,Bidar Solar,solar,90,54.84,17.92,77.52,Bidar
+2024-04-23T15:00:00,Bidar Solar,solar,90,32.9,17.92,77.52,Bidar
+2024-04-23T16:00:00,Bidar Solar,solar,90,20.09,17.92,77.52,Bidar
+2024-04-23T17:00:00,Bidar Solar,solar,90,8.13,17.92,77.52,Bidar
+2024-04-23T18:00:00,Bidar Solar,solar,90,0.97,17.92,77.52,Bidar
+2024-04-23T19:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T20:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T21:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T22:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-23T23:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T00:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T01:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T02:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T03:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T04:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T05:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T06:00:00,Bidar Solar,solar,90,0.9,17.92,77.52,Bidar
+2024-04-24T07:00:00,Bidar Solar,solar,90,1.04,17.92,77.52,Bidar
+2024-04-24T08:00:00,Bidar Solar,solar,90,6.04,17.92,77.52,Bidar
+2024-04-24T09:00:00,Bidar Solar,solar,90,24.15,17.92,77.52,Bidar
+2024-04-24T10:00:00,Bidar Solar,solar,90,38.6,17.92,77.52,Bidar
+2024-04-24T11:00:00,Bidar Solar,solar,90,50.66,17.92,77.52,Bidar
+2024-04-24T12:00:00,Bidar Solar,solar,90,44.2,17.92,77.52,Bidar
+2024-04-24T13:00:00,Bidar Solar,solar,90,47.11,17.92,77.52,Bidar
+2024-04-24T14:00:00,Bidar Solar,solar,90,56.29,17.92,77.52,Bidar
+2024-04-24T15:00:00,Bidar Solar,solar,90,32.82,17.92,77.52,Bidar
+2024-04-24T16:00:00,Bidar Solar,solar,90,18.39,17.92,77.52,Bidar
+2024-04-24T17:00:00,Bidar Solar,solar,90,8.01,17.92,77.52,Bidar
+2024-04-24T18:00:00,Bidar Solar,solar,90,0.9,17.92,77.52,Bidar
+2024-04-24T19:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T20:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T21:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T22:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-24T23:00:00,Bidar Solar,solar,90,0.0,17.92,77.52,Bidar
+2024-04-17T23:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-18T00:00:00,Chitradurga Wind Cluster,wind,150,3.97,14.23,76.4,Chitradurga
+2024-04-18T01:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-18T02:00:00,Chitradurga Wind Cluster,wind,150,11.12,14.23,76.4,Chitradurga
+2024-04-18T03:00:00,Chitradurga Wind Cluster,wind,150,2.11,14.23,76.4,Chitradurga
+2024-04-18T04:00:00,Chitradurga Wind Cluster,wind,150,0.73,14.23,76.4,Chitradurga
+2024-04-18T05:00:00,Chitradurga Wind Cluster,wind,150,0.16,14.23,76.4,Chitradurga
+2024-04-18T06:00:00,Chitradurga Wind Cluster,wind,150,0.04,14.23,76.4,Chitradurga
+2024-04-18T07:00:00,Chitradurga Wind Cluster,wind,150,0.14,14.23,76.4,Chitradurga
+2024-04-18T08:00:00,Chitradurga Wind Cluster,wind,150,7.96,14.23,76.4,Chitradurga
+2024-04-18T09:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-18T10:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-18T11:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-18T12:00:00,Chitradurga Wind Cluster,wind,150,0.89,14.23,76.4,Chitradurga
+2024-04-18T13:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-18T14:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-18T15:00:00,Chitradurga Wind Cluster,wind,150,11.32,14.23,76.4,Chitradurga
+2024-04-18T16:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-18T17:00:00,Chitradurga Wind Cluster,wind,150,6.54,14.23,76.4,Chitradurga
+2024-04-18T18:00:00,Chitradurga Wind Cluster,wind,150,36.34,14.23,76.4,Chitradurga
+2024-04-18T19:00:00,Chitradurga Wind Cluster,wind,150,5.62,14.23,76.4,Chitradurga
+2024-04-18T20:00:00,Chitradurga Wind Cluster,wind,150,4.8,14.23,76.4,Chitradurga
+2024-04-18T21:00:00,Chitradurga Wind Cluster,wind,150,8.44,14.23,76.4,Chitradurga
+2024-04-18T22:00:00,Chitradurga Wind Cluster,wind,150,4.09,14.23,76.4,Chitradurga
+2024-04-18T23:00:00,Chitradurga Wind Cluster,wind,150,0.22,14.23,76.4,Chitradurga
+2024-04-19T00:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-19T01:00:00,Chitradurga Wind Cluster,wind,150,27.51,14.23,76.4,Chitradurga
+2024-04-19T02:00:00,Chitradurga Wind Cluster,wind,150,2.94,14.23,76.4,Chitradurga
+2024-04-19T03:00:00,Chitradurga Wind Cluster,wind,150,24.71,14.23,76.4,Chitradurga
+2024-04-19T04:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-19T05:00:00,Chitradurga Wind Cluster,wind,150,0.73,14.23,76.4,Chitradurga
+2024-04-19T06:00:00,Chitradurga Wind Cluster,wind,150,0.64,14.23,76.4,Chitradurga
+2024-04-19T07:00:00,Chitradurga Wind Cluster,wind,150,3.57,14.23,76.4,Chitradurga
+2024-04-19T08:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-19T09:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-19T10:00:00,Chitradurga Wind Cluster,wind,150,0.02,14.23,76.4,Chitradurga
+2024-04-19T11:00:00,Chitradurga Wind Cluster,wind,150,7.59,14.23,76.4,Chitradurga
+2024-04-19T12:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-19T13:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-19T14:00:00,Chitradurga Wind Cluster,wind,150,0.4,14.23,76.4,Chitradurga
+2024-04-19T15:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-19T16:00:00,Chitradurga Wind Cluster,wind,150,17.6,14.23,76.4,Chitradurga
+2024-04-19T17:00:00,Chitradurga Wind Cluster,wind,150,2.36,14.23,76.4,Chitradurga
+2024-04-19T18:00:00,Chitradurga Wind Cluster,wind,150,16.92,14.23,76.4,Chitradurga
+2024-04-19T19:00:00,Chitradurga Wind Cluster,wind,150,49.51,14.23,76.4,Chitradurga
+2024-04-19T20:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-19T21:00:00,Chitradurga Wind Cluster,wind,150,59.01,14.23,76.4,Chitradurga
+2024-04-19T22:00:00,Chitradurga Wind Cluster,wind,150,82.83,14.23,76.4,Chitradurga
+2024-04-19T23:00:00,Chitradurga Wind Cluster,wind,150,1.91,14.23,76.4,Chitradurga
+2024-04-20T00:00:00,Chitradurga Wind Cluster,wind,150,11.19,14.23,76.4,Chitradurga
+2024-04-20T01:00:00,Chitradurga Wind Cluster,wind,150,2.9,14.23,76.4,Chitradurga
+2024-04-20T02:00:00,Chitradurga Wind Cluster,wind,150,31.92,14.23,76.4,Chitradurga
+2024-04-20T03:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-20T04:00:00,Chitradurga Wind Cluster,wind,150,0.2,14.23,76.4,Chitradurga
+2024-04-20T05:00:00,Chitradurga Wind Cluster,wind,150,1.95,14.23,76.4,Chitradurga
+2024-04-20T06:00:00,Chitradurga Wind Cluster,wind,150,21.09,14.23,76.4,Chitradurga
+2024-04-20T07:00:00,Chitradurga Wind Cluster,wind,150,2.8,14.23,76.4,Chitradurga
+2024-04-20T08:00:00,Chitradurga Wind Cluster,wind,150,16.31,14.23,76.4,Chitradurga
+2024-04-20T09:00:00,Chitradurga Wind Cluster,wind,150,14.59,14.23,76.4,Chitradurga
+2024-04-20T10:00:00,Chitradurga Wind Cluster,wind,150,6.91,14.23,76.4,Chitradurga
+2024-04-20T11:00:00,Chitradurga Wind Cluster,wind,150,0.33,14.23,76.4,Chitradurga
+2024-04-20T12:00:00,Chitradurga Wind Cluster,wind,150,8.43,14.23,76.4,Chitradurga
+2024-04-20T13:00:00,Chitradurga Wind Cluster,wind,150,2.97,14.23,76.4,Chitradurga
+2024-04-20T14:00:00,Chitradurga Wind Cluster,wind,150,123.44,14.23,76.4,Chitradurga
+2024-04-20T15:00:00,Chitradurga Wind Cluster,wind,150,134.64,14.23,76.4,Chitradurga
+2024-04-20T16:00:00,Chitradurga Wind Cluster,wind,150,62.51,14.23,76.4,Chitradurga
+2024-04-20T17:00:00,Chitradurga Wind Cluster,wind,150,0.1,14.23,76.4,Chitradurga
+2024-04-20T18:00:00,Chitradurga Wind Cluster,wind,150,36.96,14.23,76.4,Chitradurga
+2024-04-20T19:00:00,Chitradurga Wind Cluster,wind,150,10.36,14.23,76.4,Chitradurga
+2024-04-20T20:00:00,Chitradurga Wind Cluster,wind,150,0.83,14.23,76.4,Chitradurga
+2024-04-20T21:00:00,Chitradurga Wind Cluster,wind,150,1.26,14.23,76.4,Chitradurga
+2024-04-20T22:00:00,Chitradurga Wind Cluster,wind,150,2.5,14.23,76.4,Chitradurga
+2024-04-20T23:00:00,Chitradurga Wind Cluster,wind,150,7.12,14.23,76.4,Chitradurga
+2024-04-21T00:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-21T01:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-21T02:00:00,Chitradurga Wind Cluster,wind,150,9.47,14.23,76.4,Chitradurga
+2024-04-21T03:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-21T04:00:00,Chitradurga Wind Cluster,wind,150,2.07,14.23,76.4,Chitradurga
+2024-04-21T05:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-21T06:00:00,Chitradurga Wind Cluster,wind,150,1.05,14.23,76.4,Chitradurga
+2024-04-21T07:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-21T08:00:00,Chitradurga Wind Cluster,wind,150,52.22,14.23,76.4,Chitradurga
+2024-04-21T09:00:00,Chitradurga Wind Cluster,wind,150,0.04,14.23,76.4,Chitradurga
+2024-04-21T10:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-21T11:00:00,Chitradurga Wind Cluster,wind,150,21.04,14.23,76.4,Chitradurga
+2024-04-21T12:00:00,Chitradurga Wind Cluster,wind,150,20.81,14.23,76.4,Chitradurga
+2024-04-21T13:00:00,Chitradurga Wind Cluster,wind,150,1.51,14.23,76.4,Chitradurga
+2024-04-21T14:00:00,Chitradurga Wind Cluster,wind,150,26.53,14.23,76.4,Chitradurga
+2024-04-21T15:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-21T16:00:00,Chitradurga Wind Cluster,wind,150,58.56,14.23,76.4,Chitradurga
+2024-04-21T17:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-21T18:00:00,Chitradurga Wind Cluster,wind,150,23.2,14.23,76.4,Chitradurga
+2024-04-21T19:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-21T20:00:00,Chitradurga Wind Cluster,wind,150,12.89,14.23,76.4,Chitradurga
+2024-04-21T21:00:00,Chitradurga Wind Cluster,wind,150,1.89,14.23,76.4,Chitradurga
+2024-04-21T22:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-21T23:00:00,Chitradurga Wind Cluster,wind,150,11.71,14.23,76.4,Chitradurga
+2024-04-22T00:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-22T01:00:00,Chitradurga Wind Cluster,wind,150,0.01,14.23,76.4,Chitradurga
+2024-04-22T02:00:00,Chitradurga Wind Cluster,wind,150,9.42,14.23,76.4,Chitradurga
+2024-04-22T03:00:00,Chitradurga Wind Cluster,wind,150,0.66,14.23,76.4,Chitradurga
+2024-04-22T04:00:00,Chitradurga Wind Cluster,wind,150,0.01,14.23,76.4,Chitradurga
+2024-04-22T05:00:00,Chitradurga Wind Cluster,wind,150,0.2,14.23,76.4,Chitradurga
+2024-04-22T06:00:00,Chitradurga Wind Cluster,wind,150,1.7,14.23,76.4,Chitradurga
+2024-04-22T07:00:00,Chitradurga Wind Cluster,wind,150,5.51,14.23,76.4,Chitradurga
+2024-04-22T08:00:00,Chitradurga Wind Cluster,wind,150,2.68,14.23,76.4,Chitradurga
+2024-04-22T09:00:00,Chitradurga Wind Cluster,wind,150,8.67,14.23,76.4,Chitradurga
+2024-04-22T10:00:00,Chitradurga Wind Cluster,wind,150,13.2,14.23,76.4,Chitradurga
+2024-04-22T11:00:00,Chitradurga Wind Cluster,wind,150,0.08,14.23,76.4,Chitradurga
+2024-04-22T12:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-22T13:00:00,Chitradurga Wind Cluster,wind,150,0.04,14.23,76.4,Chitradurga
+2024-04-22T14:00:00,Chitradurga Wind Cluster,wind,150,0.69,14.23,76.4,Chitradurga
+2024-04-22T15:00:00,Chitradurga Wind Cluster,wind,150,128.92,14.23,76.4,Chitradurga
+2024-04-22T16:00:00,Chitradurga Wind Cluster,wind,150,88.74,14.23,76.4,Chitradurga
+2024-04-22T17:00:00,Chitradurga Wind Cluster,wind,150,78.53,14.23,76.4,Chitradurga
+2024-04-22T18:00:00,Chitradurga Wind Cluster,wind,150,5.03,14.23,76.4,Chitradurga
+2024-04-22T19:00:00,Chitradurga Wind Cluster,wind,150,6.39,14.23,76.4,Chitradurga
+2024-04-22T20:00:00,Chitradurga Wind Cluster,wind,150,4.62,14.23,76.4,Chitradurga
+2024-04-22T21:00:00,Chitradurga Wind Cluster,wind,150,5.35,14.23,76.4,Chitradurga
+2024-04-22T22:00:00,Chitradurga Wind Cluster,wind,150,1.97,14.23,76.4,Chitradurga
+2024-04-22T23:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-23T00:00:00,Chitradurga Wind Cluster,wind,150,52.42,14.23,76.4,Chitradurga
+2024-04-23T01:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-23T02:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-23T03:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-23T04:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-23T05:00:00,Chitradurga Wind Cluster,wind,150,7.59,14.23,76.4,Chitradurga
+2024-04-23T06:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-23T07:00:00,Chitradurga Wind Cluster,wind,150,0.42,14.23,76.4,Chitradurga
+2024-04-23T08:00:00,Chitradurga Wind Cluster,wind,150,0.02,14.23,76.4,Chitradurga
+2024-04-23T09:00:00,Chitradurga Wind Cluster,wind,150,24.43,14.23,76.4,Chitradurga
+2024-04-23T10:00:00,Chitradurga Wind Cluster,wind,150,38.13,14.23,76.4,Chitradurga
+2024-04-23T11:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-23T12:00:00,Chitradurga Wind Cluster,wind,150,5.43,14.23,76.4,Chitradurga
+2024-04-23T13:00:00,Chitradurga Wind Cluster,wind,150,85.34,14.23,76.4,Chitradurga
+2024-04-23T14:00:00,Chitradurga Wind Cluster,wind,150,0.04,14.23,76.4,Chitradurga
+2024-04-23T15:00:00,Chitradurga Wind Cluster,wind,150,12.4,14.23,76.4,Chitradurga
+2024-04-23T16:00:00,Chitradurga Wind Cluster,wind,150,16.37,14.23,76.4,Chitradurga
+2024-04-23T17:00:00,Chitradurga Wind Cluster,wind,150,1.55,14.23,76.4,Chitradurga
+2024-04-23T18:00:00,Chitradurga Wind Cluster,wind,150,78.25,14.23,76.4,Chitradurga
+2024-04-23T19:00:00,Chitradurga Wind Cluster,wind,150,11.17,14.23,76.4,Chitradurga
+2024-04-23T20:00:00,Chitradurga Wind Cluster,wind,150,87.81,14.23,76.4,Chitradurga
+2024-04-23T21:00:00,Chitradurga Wind Cluster,wind,150,5.26,14.23,76.4,Chitradurga
+2024-04-23T22:00:00,Chitradurga Wind Cluster,wind,150,0.94,14.23,76.4,Chitradurga
+2024-04-23T23:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-24T00:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-24T01:00:00,Chitradurga Wind Cluster,wind,150,42.83,14.23,76.4,Chitradurga
+2024-04-24T02:00:00,Chitradurga Wind Cluster,wind,150,0.34,14.23,76.4,Chitradurga
+2024-04-24T03:00:00,Chitradurga Wind Cluster,wind,150,0.14,14.23,76.4,Chitradurga
+2024-04-24T04:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-24T05:00:00,Chitradurga Wind Cluster,wind,150,0.65,14.23,76.4,Chitradurga
+2024-04-24T06:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-24T07:00:00,Chitradurga Wind Cluster,wind,150,8.53,14.23,76.4,Chitradurga
+2024-04-24T08:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-24T09:00:00,Chitradurga Wind Cluster,wind,150,0.01,14.23,76.4,Chitradurga
+2024-04-24T10:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-24T11:00:00,Chitradurga Wind Cluster,wind,150,19.3,14.23,76.4,Chitradurga
+2024-04-24T12:00:00,Chitradurga Wind Cluster,wind,150,84.61,14.23,76.4,Chitradurga
+2024-04-24T13:00:00,Chitradurga Wind Cluster,wind,150,8.18,14.23,76.4,Chitradurga
+2024-04-24T14:00:00,Chitradurga Wind Cluster,wind,150,9.93,14.23,76.4,Chitradurga
+2024-04-24T15:00:00,Chitradurga Wind Cluster,wind,150,7.35,14.23,76.4,Chitradurga
+2024-04-24T16:00:00,Chitradurga Wind Cluster,wind,150,64.06,14.23,76.4,Chitradurga
+2024-04-24T17:00:00,Chitradurga Wind Cluster,wind,150,2.37,14.23,76.4,Chitradurga
+2024-04-24T18:00:00,Chitradurga Wind Cluster,wind,150,0.57,14.23,76.4,Chitradurga
+2024-04-24T19:00:00,Chitradurga Wind Cluster,wind,150,59.7,14.23,76.4,Chitradurga
+2024-04-24T20:00:00,Chitradurga Wind Cluster,wind,150,59.51,14.23,76.4,Chitradurga
+2024-04-24T21:00:00,Chitradurga Wind Cluster,wind,150,0.09,14.23,76.4,Chitradurga
+2024-04-24T22:00:00,Chitradurga Wind Cluster,wind,150,0.0,14.23,76.4,Chitradurga
+2024-04-24T23:00:00,Chitradurga Wind Cluster,wind,150,4.03,14.23,76.4,Chitradurga
+2024-04-17T23:00:00,Gadag Wind Farm,wind,200,0.04,15.43,75.63,Gadag
+2024-04-18T00:00:00,Gadag Wind Farm,wind,200,19.14,15.43,75.63,Gadag
+2024-04-18T01:00:00,Gadag Wind Farm,wind,200,3.21,15.43,75.63,Gadag
+2024-04-18T02:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-18T03:00:00,Gadag Wind Farm,wind,200,5.41,15.43,75.63,Gadag
+2024-04-18T04:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-18T05:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-18T06:00:00,Gadag Wind Farm,wind,200,18.84,15.43,75.63,Gadag
+2024-04-18T07:00:00,Gadag Wind Farm,wind,200,5.1,15.43,75.63,Gadag
+2024-04-18T08:00:00,Gadag Wind Farm,wind,200,0.84,15.43,75.63,Gadag
+2024-04-18T09:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-18T10:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-18T11:00:00,Gadag Wind Farm,wind,200,24.75,15.43,75.63,Gadag
+2024-04-18T12:00:00,Gadag Wind Farm,wind,200,10.27,15.43,75.63,Gadag
+2024-04-18T13:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-18T14:00:00,Gadag Wind Farm,wind,200,177.47,15.43,75.63,Gadag
+2024-04-18T15:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-18T16:00:00,Gadag Wind Farm,wind,200,6.57,15.43,75.63,Gadag
+2024-04-18T17:00:00,Gadag Wind Farm,wind,200,14.01,15.43,75.63,Gadag
+2024-04-18T18:00:00,Gadag Wind Farm,wind,200,3.06,15.43,75.63,Gadag
+2024-04-18T19:00:00,Gadag Wind Farm,wind,200,51.3,15.43,75.63,Gadag
+2024-04-18T20:00:00,Gadag Wind Farm,wind,200,182.24,15.43,75.63,Gadag
+2024-04-18T21:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-18T22:00:00,Gadag Wind Farm,wind,200,37.79,15.43,75.63,Gadag
+2024-04-18T23:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-19T00:00:00,Gadag Wind Farm,wind,200,69.7,15.43,75.63,Gadag
+2024-04-19T01:00:00,Gadag Wind Farm,wind,200,17.82,15.43,75.63,Gadag
+2024-04-19T02:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-19T03:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-19T04:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-19T05:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-19T06:00:00,Gadag Wind Farm,wind,200,2.16,15.43,75.63,Gadag
+2024-04-19T07:00:00,Gadag Wind Farm,wind,200,7.8,15.43,75.63,Gadag
+2024-04-19T08:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-19T09:00:00,Gadag Wind Farm,wind,200,32.64,15.43,75.63,Gadag
+2024-04-19T10:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-19T11:00:00,Gadag Wind Farm,wind,200,12.49,15.43,75.63,Gadag
+2024-04-19T12:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-19T13:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-19T14:00:00,Gadag Wind Farm,wind,200,90.3,15.43,75.63,Gadag
+2024-04-19T15:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-19T16:00:00,Gadag Wind Farm,wind,200,184.12,15.43,75.63,Gadag
+2024-04-19T17:00:00,Gadag Wind Farm,wind,200,138.48,15.43,75.63,Gadag
+2024-04-19T18:00:00,Gadag Wind Farm,wind,200,14.64,15.43,75.63,Gadag
+2024-04-19T19:00:00,Gadag Wind Farm,wind,200,1.4,15.43,75.63,Gadag
+2024-04-19T20:00:00,Gadag Wind Farm,wind,200,5.68,15.43,75.63,Gadag
+2024-04-19T21:00:00,Gadag Wind Farm,wind,200,32.2,15.43,75.63,Gadag
+2024-04-19T22:00:00,Gadag Wind Farm,wind,200,0.35,15.43,75.63,Gadag
+2024-04-19T23:00:00,Gadag Wind Farm,wind,200,2.28,15.43,75.63,Gadag
+2024-04-20T00:00:00,Gadag Wind Farm,wind,200,5.89,15.43,75.63,Gadag
+2024-04-20T01:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-20T02:00:00,Gadag Wind Farm,wind,200,0.1,15.43,75.63,Gadag
+2024-04-20T03:00:00,Gadag Wind Farm,wind,200,59.41,15.43,75.63,Gadag
+2024-04-20T04:00:00,Gadag Wind Farm,wind,200,2.34,15.43,75.63,Gadag
+2024-04-20T05:00:00,Gadag Wind Farm,wind,200,3.48,15.43,75.63,Gadag
+2024-04-20T06:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-20T07:00:00,Gadag Wind Farm,wind,200,0.48,15.43,75.63,Gadag
+2024-04-20T08:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-20T09:00:00,Gadag Wind Farm,wind,200,83.5,15.43,75.63,Gadag
+2024-04-20T10:00:00,Gadag Wind Farm,wind,200,0.01,15.43,75.63,Gadag
+2024-04-20T11:00:00,Gadag Wind Farm,wind,200,2.57,15.43,75.63,Gadag
+2024-04-20T12:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-20T13:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-20T14:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-20T15:00:00,Gadag Wind Farm,wind,200,74.76,15.43,75.63,Gadag
+2024-04-20T16:00:00,Gadag Wind Farm,wind,200,15.37,15.43,75.63,Gadag
+2024-04-20T17:00:00,Gadag Wind Farm,wind,200,177.01,15.43,75.63,Gadag
+2024-04-20T18:00:00,Gadag Wind Farm,wind,200,3.82,15.43,75.63,Gadag
+2024-04-20T19:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-20T20:00:00,Gadag Wind Farm,wind,200,2.14,15.43,75.63,Gadag
+2024-04-20T21:00:00,Gadag Wind Farm,wind,200,0.69,15.43,75.63,Gadag
+2024-04-20T22:00:00,Gadag Wind Farm,wind,200,5.65,15.43,75.63,Gadag
+2024-04-20T23:00:00,Gadag Wind Farm,wind,200,0.2,15.43,75.63,Gadag
+2024-04-21T00:00:00,Gadag Wind Farm,wind,200,0.18,15.43,75.63,Gadag
+2024-04-21T01:00:00,Gadag Wind Farm,wind,200,2.57,15.43,75.63,Gadag
+2024-04-21T02:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-21T03:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-21T04:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-21T05:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-21T06:00:00,Gadag Wind Farm,wind,200,0.08,15.43,75.63,Gadag
+2024-04-21T07:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-21T08:00:00,Gadag Wind Farm,wind,200,0.2,15.43,75.63,Gadag
+2024-04-21T09:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-21T10:00:00,Gadag Wind Farm,wind,200,0.04,15.43,75.63,Gadag
+2024-04-21T11:00:00,Gadag Wind Farm,wind,200,4.89,15.43,75.63,Gadag
+2024-04-21T12:00:00,Gadag Wind Farm,wind,200,0.05,15.43,75.63,Gadag
+2024-04-21T13:00:00,Gadag Wind Farm,wind,200,3.27,15.43,75.63,Gadag
+2024-04-21T14:00:00,Gadag Wind Farm,wind,200,184.39,15.43,75.63,Gadag
+2024-04-21T15:00:00,Gadag Wind Farm,wind,200,47.19,15.43,75.63,Gadag
+2024-04-21T16:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-21T17:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-21T18:00:00,Gadag Wind Farm,wind,200,4.87,15.43,75.63,Gadag
+2024-04-21T19:00:00,Gadag Wind Farm,wind,200,15.94,15.43,75.63,Gadag
+2024-04-21T20:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-21T21:00:00,Gadag Wind Farm,wind,200,0.02,15.43,75.63,Gadag
+2024-04-21T22:00:00,Gadag Wind Farm,wind,200,7.69,15.43,75.63,Gadag
+2024-04-21T23:00:00,Gadag Wind Farm,wind,200,5.5,15.43,75.63,Gadag
+2024-04-22T00:00:00,Gadag Wind Farm,wind,200,0.24,15.43,75.63,Gadag
+2024-04-22T01:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-22T02:00:00,Gadag Wind Farm,wind,200,12.86,15.43,75.63,Gadag
+2024-04-22T03:00:00,Gadag Wind Farm,wind,200,15.72,15.43,75.63,Gadag
+2024-04-22T04:00:00,Gadag Wind Farm,wind,200,21.5,15.43,75.63,Gadag
+2024-04-22T05:00:00,Gadag Wind Farm,wind,200,0.01,15.43,75.63,Gadag
+2024-04-22T06:00:00,Gadag Wind Farm,wind,200,2.07,15.43,75.63,Gadag
+2024-04-22T07:00:00,Gadag Wind Farm,wind,200,5.52,15.43,75.63,Gadag
+2024-04-22T08:00:00,Gadag Wind Farm,wind,200,4.92,15.43,75.63,Gadag
+2024-04-22T09:00:00,Gadag Wind Farm,wind,200,0.25,15.43,75.63,Gadag
+2024-04-22T10:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-22T11:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-22T12:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-22T13:00:00,Gadag Wind Farm,wind,200,0.02,15.43,75.63,Gadag
+2024-04-22T14:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-22T15:00:00,Gadag Wind Farm,wind,200,33.03,15.43,75.63,Gadag
+2024-04-22T16:00:00,Gadag Wind Farm,wind,200,20.13,15.43,75.63,Gadag
+2024-04-22T17:00:00,Gadag Wind Farm,wind,200,170.79,15.43,75.63,Gadag
+2024-04-22T18:00:00,Gadag Wind Farm,wind,200,6.36,15.43,75.63,Gadag
+2024-04-22T19:00:00,Gadag Wind Farm,wind,200,8.91,15.43,75.63,Gadag
+2024-04-22T20:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-22T21:00:00,Gadag Wind Farm,wind,200,0.09,15.43,75.63,Gadag
+2024-04-22T22:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-22T23:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-23T00:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-23T01:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-23T02:00:00,Gadag Wind Farm,wind,200,33.68,15.43,75.63,Gadag
+2024-04-23T03:00:00,Gadag Wind Farm,wind,200,2.35,15.43,75.63,Gadag
+2024-04-23T04:00:00,Gadag Wind Farm,wind,200,16.42,15.43,75.63,Gadag
+2024-04-23T05:00:00,Gadag Wind Farm,wind,200,0.1,15.43,75.63,Gadag
+2024-04-23T06:00:00,Gadag Wind Farm,wind,200,0.02,15.43,75.63,Gadag
+2024-04-23T07:00:00,Gadag Wind Farm,wind,200,1.44,15.43,75.63,Gadag
+2024-04-23T08:00:00,Gadag Wind Farm,wind,200,1.29,15.43,75.63,Gadag
+2024-04-23T09:00:00,Gadag Wind Farm,wind,200,0.31,15.43,75.63,Gadag
+2024-04-23T10:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-23T11:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-23T12:00:00,Gadag Wind Farm,wind,200,0.02,15.43,75.63,Gadag
+2024-04-23T13:00:00,Gadag Wind Farm,wind,200,1.98,15.43,75.63,Gadag
+2024-04-23T14:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-23T15:00:00,Gadag Wind Farm,wind,200,8.56,15.43,75.63,Gadag
+2024-04-23T16:00:00,Gadag Wind Farm,wind,200,4.2,15.43,75.63,Gadag
+2024-04-23T17:00:00,Gadag Wind Farm,wind,200,26.06,15.43,75.63,Gadag
+2024-04-23T18:00:00,Gadag Wind Farm,wind,200,0.07,15.43,75.63,Gadag
+2024-04-23T19:00:00,Gadag Wind Farm,wind,200,7.97,15.43,75.63,Gadag
+2024-04-23T20:00:00,Gadag Wind Farm,wind,200,13.9,15.43,75.63,Gadag
+2024-04-23T21:00:00,Gadag Wind Farm,wind,200,1.16,15.43,75.63,Gadag
+2024-04-23T22:00:00,Gadag Wind Farm,wind,200,24.62,15.43,75.63,Gadag
+2024-04-23T23:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-24T00:00:00,Gadag Wind Farm,wind,200,12.95,15.43,75.63,Gadag
+2024-04-24T01:00:00,Gadag Wind Farm,wind,200,53.59,15.43,75.63,Gadag
+2024-04-24T02:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-24T03:00:00,Gadag Wind Farm,wind,200,0.6,15.43,75.63,Gadag
+2024-04-24T04:00:00,Gadag Wind Farm,wind,200,20.83,15.43,75.63,Gadag
+2024-04-24T05:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-24T06:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-24T07:00:00,Gadag Wind Farm,wind,200,0.93,15.43,75.63,Gadag
+2024-04-24T08:00:00,Gadag Wind Farm,wind,200,0.71,15.43,75.63,Gadag
+2024-04-24T09:00:00,Gadag Wind Farm,wind,200,108.97,15.43,75.63,Gadag
+2024-04-24T10:00:00,Gadag Wind Farm,wind,200,0.17,15.43,75.63,Gadag
+2024-04-24T11:00:00,Gadag Wind Farm,wind,200,1.83,15.43,75.63,Gadag
+2024-04-24T12:00:00,Gadag Wind Farm,wind,200,64.62,15.43,75.63,Gadag
+2024-04-24T13:00:00,Gadag Wind Farm,wind,200,20.8,15.43,75.63,Gadag
+2024-04-24T14:00:00,Gadag Wind Farm,wind,200,5.95,15.43,75.63,Gadag
+2024-04-24T15:00:00,Gadag Wind Farm,wind,200,21.07,15.43,75.63,Gadag
+2024-04-24T16:00:00,Gadag Wind Farm,wind,200,175.84,15.43,75.63,Gadag
+2024-04-24T17:00:00,Gadag Wind Farm,wind,200,36.14,15.43,75.63,Gadag
+2024-04-24T18:00:00,Gadag Wind Farm,wind,200,44.36,15.43,75.63,Gadag
+2024-04-24T19:00:00,Gadag Wind Farm,wind,200,1.04,15.43,75.63,Gadag
+2024-04-24T20:00:00,Gadag Wind Farm,wind,200,2.34,15.43,75.63,Gadag
+2024-04-24T21:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-24T22:00:00,Gadag Wind Farm,wind,200,69.94,15.43,75.63,Gadag
+2024-04-24T23:00:00,Gadag Wind Farm,wind,200,0.0,15.43,75.63,Gadag
+2024-04-17T23:00:00,Davangere Wind,wind,120,1.79,14.46,75.92,Davangere
+2024-04-18T00:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-18T01:00:00,Davangere Wind,wind,120,3.97,14.46,75.92,Davangere
+2024-04-18T02:00:00,Davangere Wind,wind,120,0.87,14.46,75.92,Davangere
+2024-04-18T03:00:00,Davangere Wind,wind,120,0.59,14.46,75.92,Davangere
+2024-04-18T04:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-18T05:00:00,Davangere Wind,wind,120,0.41,14.46,75.92,Davangere
+2024-04-18T06:00:00,Davangere Wind,wind,120,1.81,14.46,75.92,Davangere
+2024-04-18T07:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-18T08:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-18T09:00:00,Davangere Wind,wind,120,0.51,14.46,75.92,Davangere
+2024-04-18T10:00:00,Davangere Wind,wind,120,11.14,14.46,75.92,Davangere
+2024-04-18T11:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-18T12:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-18T13:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-18T14:00:00,Davangere Wind,wind,120,59.07,14.46,75.92,Davangere
+2024-04-18T15:00:00,Davangere Wind,wind,120,0.78,14.46,75.92,Davangere
+2024-04-18T16:00:00,Davangere Wind,wind,120,3.33,14.46,75.92,Davangere
+2024-04-18T17:00:00,Davangere Wind,wind,120,107.66,14.46,75.92,Davangere
+2024-04-18T18:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-18T19:00:00,Davangere Wind,wind,120,19.33,14.46,75.92,Davangere
+2024-04-18T20:00:00,Davangere Wind,wind,120,15.33,14.46,75.92,Davangere
+2024-04-18T21:00:00,Davangere Wind,wind,120,3.73,14.46,75.92,Davangere
+2024-04-18T22:00:00,Davangere Wind,wind,120,49.42,14.46,75.92,Davangere
+2024-04-18T23:00:00,Davangere Wind,wind,120,5.75,14.46,75.92,Davangere
+2024-04-19T00:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-19T01:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-19T02:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-19T03:00:00,Davangere Wind,wind,120,0.03,14.46,75.92,Davangere
+2024-04-19T04:00:00,Davangere Wind,wind,120,0.16,14.46,75.92,Davangere
+2024-04-19T05:00:00,Davangere Wind,wind,120,0.24,14.46,75.92,Davangere
+2024-04-19T06:00:00,Davangere Wind,wind,120,0.04,14.46,75.92,Davangere
+2024-04-19T07:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-19T08:00:00,Davangere Wind,wind,120,10.22,14.46,75.92,Davangere
+2024-04-19T09:00:00,Davangere Wind,wind,120,12.55,14.46,75.92,Davangere
+2024-04-19T10:00:00,Davangere Wind,wind,120,0.29,14.46,75.92,Davangere
+2024-04-19T11:00:00,Davangere Wind,wind,120,16.56,14.46,75.92,Davangere
+2024-04-19T12:00:00,Davangere Wind,wind,120,1.42,14.46,75.92,Davangere
+2024-04-19T13:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-19T14:00:00,Davangere Wind,wind,120,29.28,14.46,75.92,Davangere
+2024-04-19T15:00:00,Davangere Wind,wind,120,0.75,14.46,75.92,Davangere
+2024-04-19T16:00:00,Davangere Wind,wind,120,28.19,14.46,75.92,Davangere
+2024-04-19T17:00:00,Davangere Wind,wind,120,0.04,14.46,75.92,Davangere
+2024-04-19T18:00:00,Davangere Wind,wind,120,1.67,14.46,75.92,Davangere
+2024-04-19T19:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-19T20:00:00,Davangere Wind,wind,120,0.31,14.46,75.92,Davangere
+2024-04-19T21:00:00,Davangere Wind,wind,120,10.56,14.46,75.92,Davangere
+2024-04-19T22:00:00,Davangere Wind,wind,120,0.39,14.46,75.92,Davangere
+2024-04-19T23:00:00,Davangere Wind,wind,120,0.1,14.46,75.92,Davangere
+2024-04-20T00:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-20T01:00:00,Davangere Wind,wind,120,0.27,14.46,75.92,Davangere
+2024-04-20T02:00:00,Davangere Wind,wind,120,2.92,14.46,75.92,Davangere
+2024-04-20T03:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-20T04:00:00,Davangere Wind,wind,120,0.61,14.46,75.92,Davangere
+2024-04-20T05:00:00,Davangere Wind,wind,120,59.27,14.46,75.92,Davangere
+2024-04-20T06:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-20T07:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-20T08:00:00,Davangere Wind,wind,120,0.02,14.46,75.92,Davangere
+2024-04-20T09:00:00,Davangere Wind,wind,120,0.04,14.46,75.92,Davangere
+2024-04-20T10:00:00,Davangere Wind,wind,120,11.85,14.46,75.92,Davangere
+2024-04-20T11:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-20T12:00:00,Davangere Wind,wind,120,6.8,14.46,75.92,Davangere
+2024-04-20T13:00:00,Davangere Wind,wind,120,0.23,14.46,75.92,Davangere
+2024-04-20T14:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-20T15:00:00,Davangere Wind,wind,120,0.12,14.46,75.92,Davangere
+2024-04-20T16:00:00,Davangere Wind,wind,120,29.79,14.46,75.92,Davangere
+2024-04-20T17:00:00,Davangere Wind,wind,120,4.74,14.46,75.92,Davangere
+2024-04-20T18:00:00,Davangere Wind,wind,120,106.82,14.46,75.92,Davangere
+2024-04-20T19:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-20T20:00:00,Davangere Wind,wind,120,0.03,14.46,75.92,Davangere
+2024-04-20T21:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-20T22:00:00,Davangere Wind,wind,120,1.15,14.46,75.92,Davangere
+2024-04-20T23:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-21T00:00:00,Davangere Wind,wind,120,0.07,14.46,75.92,Davangere
+2024-04-21T01:00:00,Davangere Wind,wind,120,2.65,14.46,75.92,Davangere
+2024-04-21T02:00:00,Davangere Wind,wind,120,22.07,14.46,75.92,Davangere
+2024-04-21T03:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-21T04:00:00,Davangere Wind,wind,120,3.66,14.46,75.92,Davangere
+2024-04-21T05:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-21T06:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-21T07:00:00,Davangere Wind,wind,120,37.13,14.46,75.92,Davangere
+2024-04-21T08:00:00,Davangere Wind,wind,120,0.46,14.46,75.92,Davangere
+2024-04-21T09:00:00,Davangere Wind,wind,120,2.87,14.46,75.92,Davangere
+2024-04-21T10:00:00,Davangere Wind,wind,120,8.23,14.46,75.92,Davangere
+2024-04-21T11:00:00,Davangere Wind,wind,120,0.22,14.46,75.92,Davangere
+2024-04-21T12:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-21T13:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-21T14:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-21T15:00:00,Davangere Wind,wind,120,60.68,14.46,75.92,Davangere
+2024-04-21T16:00:00,Davangere Wind,wind,120,108.71,14.46,75.92,Davangere
+2024-04-21T17:00:00,Davangere Wind,wind,120,0.03,14.46,75.92,Davangere
+2024-04-21T18:00:00,Davangere Wind,wind,120,3.48,14.46,75.92,Davangere
+2024-04-21T19:00:00,Davangere Wind,wind,120,11.95,14.46,75.92,Davangere
+2024-04-21T20:00:00,Davangere Wind,wind,120,102.1,14.46,75.92,Davangere
+2024-04-21T21:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-21T22:00:00,Davangere Wind,wind,120,5.56,14.46,75.92,Davangere
+2024-04-21T23:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-22T00:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-22T01:00:00,Davangere Wind,wind,120,1.95,14.46,75.92,Davangere
+2024-04-22T02:00:00,Davangere Wind,wind,120,1.0,14.46,75.92,Davangere
+2024-04-22T03:00:00,Davangere Wind,wind,120,6.15,14.46,75.92,Davangere
+2024-04-22T04:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-22T05:00:00,Davangere Wind,wind,120,0.02,14.46,75.92,Davangere
+2024-04-22T06:00:00,Davangere Wind,wind,120,0.01,14.46,75.92,Davangere
+2024-04-22T07:00:00,Davangere Wind,wind,120,11.65,14.46,75.92,Davangere
+2024-04-22T08:00:00,Davangere Wind,wind,120,0.15,14.46,75.92,Davangere
+2024-04-22T09:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-22T10:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-22T11:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-22T12:00:00,Davangere Wind,wind,120,103.7,14.46,75.92,Davangere
+2024-04-22T13:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-22T14:00:00,Davangere Wind,wind,120,2.3,14.46,75.92,Davangere
+2024-04-22T15:00:00,Davangere Wind,wind,120,30.75,14.46,75.92,Davangere
+2024-04-22T16:00:00,Davangere Wind,wind,120,44.28,14.46,75.92,Davangere
+2024-04-22T17:00:00,Davangere Wind,wind,120,0.2,14.46,75.92,Davangere
+2024-04-22T18:00:00,Davangere Wind,wind,120,18.88,14.46,75.92,Davangere
+2024-04-22T19:00:00,Davangere Wind,wind,120,0.17,14.46,75.92,Davangere
+2024-04-22T20:00:00,Davangere Wind,wind,120,0.09,14.46,75.92,Davangere
+2024-04-22T21:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-22T22:00:00,Davangere Wind,wind,120,37.16,14.46,75.92,Davangere
+2024-04-22T23:00:00,Davangere Wind,wind,120,1.27,14.46,75.92,Davangere
+2024-04-23T00:00:00,Davangere Wind,wind,120,0.51,14.46,75.92,Davangere
+2024-04-23T01:00:00,Davangere Wind,wind,120,5.37,14.46,75.92,Davangere
+2024-04-23T02:00:00,Davangere Wind,wind,120,17.15,14.46,75.92,Davangere
+2024-04-23T03:00:00,Davangere Wind,wind,120,33.57,14.46,75.92,Davangere
+2024-04-23T04:00:00,Davangere Wind,wind,120,7.03,14.46,75.92,Davangere
+2024-04-23T05:00:00,Davangere Wind,wind,120,0.3,14.46,75.92,Davangere
+2024-04-23T06:00:00,Davangere Wind,wind,120,1.27,14.46,75.92,Davangere
+2024-04-23T07:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-23T08:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-23T09:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-23T10:00:00,Davangere Wind,wind,120,8.75,14.46,75.92,Davangere
+2024-04-23T11:00:00,Davangere Wind,wind,120,11.38,14.46,75.92,Davangere
+2024-04-23T12:00:00,Davangere Wind,wind,120,5.89,14.46,75.92,Davangere
+2024-04-23T13:00:00,Davangere Wind,wind,120,2.12,14.46,75.92,Davangere
+2024-04-23T14:00:00,Davangere Wind,wind,120,3.08,14.46,75.92,Davangere
+2024-04-23T15:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-23T16:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-23T17:00:00,Davangere Wind,wind,120,2.69,14.46,75.92,Davangere
+2024-04-23T18:00:00,Davangere Wind,wind,120,105.78,14.46,75.92,Davangere
+2024-04-23T19:00:00,Davangere Wind,wind,120,0.11,14.46,75.92,Davangere
+2024-04-23T20:00:00,Davangere Wind,wind,120,0.12,14.46,75.92,Davangere
+2024-04-23T21:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-23T22:00:00,Davangere Wind,wind,120,4.61,14.46,75.92,Davangere
+2024-04-23T23:00:00,Davangere Wind,wind,120,10.94,14.46,75.92,Davangere
+2024-04-24T00:00:00,Davangere Wind,wind,120,0.01,14.46,75.92,Davangere
+2024-04-24T01:00:00,Davangere Wind,wind,120,3.74,14.46,75.92,Davangere
+2024-04-24T02:00:00,Davangere Wind,wind,120,0.04,14.46,75.92,Davangere
+2024-04-24T03:00:00,Davangere Wind,wind,120,19.31,14.46,75.92,Davangere
+2024-04-24T04:00:00,Davangere Wind,wind,120,1.36,14.46,75.92,Davangere
+2024-04-24T05:00:00,Davangere Wind,wind,120,2.47,14.46,75.92,Davangere
+2024-04-24T06:00:00,Davangere Wind,wind,120,3.58,14.46,75.92,Davangere
+2024-04-24T07:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-24T08:00:00,Davangere Wind,wind,120,39.48,14.46,75.92,Davangere
+2024-04-24T09:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-24T10:00:00,Davangere Wind,wind,120,0.0,14.46,75.92,Davangere
+2024-04-24T11:00:00,Davangere Wind,wind,120,3.82,14.46,75.92,Davangere
+2024-04-24T12:00:00,Davangere Wind,wind,120,0.54,14.46,75.92,Davangere
+2024-04-24T13:00:00,Davangere Wind,wind,120,0.52,14.46,75.92,Davangere
+2024-04-24T14:00:00,Davangere Wind,wind,120,54.79,14.46,75.92,Davangere
+2024-04-24T15:00:00,Davangere Wind,wind,120,23.13,14.46,75.92,Davangere
+2024-04-24T16:00:00,Davangere Wind,wind,120,115.08,14.46,75.92,Davangere
+2024-04-24T17:00:00,Davangere Wind,wind,120,23.89,14.46,75.92,Davangere
+2024-04-24T18:00:00,Davangere Wind,wind,120,0.39,14.46,75.92,Davangere
+2024-04-24T19:00:00,Davangere Wind,wind,120,46.7,14.46,75.92,Davangere
+2024-04-24T20:00:00,Davangere Wind,wind,120,1.01,14.46,75.92,Davangere
+2024-04-24T21:00:00,Davangere Wind,wind,120,62.32,14.46,75.92,Davangere
+2024-04-24T22:00:00,Davangere Wind,wind,120,4.49,14.46,75.92,Davangere
+2024-04-24T23:00:00,Davangere Wind,wind,120,0.94,14.46,75.92,Davangere
