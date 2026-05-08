@@ -1,0 +1,1310 @@
+{
+  "Pavagada Solar Park": [
+    {
+      "hour": 0,
+      "timestamp": "2024-04-25T00:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 1,
+      "timestamp": "2024-04-25T01:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 2,
+      "timestamp": "2024-04-25T02:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 3,
+      "timestamp": "2024-04-25T03:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 4,
+      "timestamp": "2024-04-25T04:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 5,
+      "timestamp": "2024-04-25T05:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 6,
+      "timestamp": "2024-04-25T06:00:00",
+      "forecast_mw": 2.79,
+      "confidence_80_lower": 2.09,
+      "confidence_80_upper": 3.48,
+      "confidence_95_lower": 1.74,
+      "confidence_95_upper": 3.83
+    },
+    {
+      "hour": 7,
+      "timestamp": "2024-04-25T07:00:00",
+      "forecast_mw": 2.74,
+      "confidence_80_lower": 2.06,
+      "confidence_80_upper": 3.43,
+      "confidence_95_lower": 1.71,
+      "confidence_95_upper": 3.77
+    },
+    {
+      "hour": 8,
+      "timestamp": "2024-04-25T08:00:00",
+      "forecast_mw": 24.41,
+      "confidence_80_lower": 18.31,
+      "confidence_80_upper": 30.51,
+      "confidence_95_lower": 15.26,
+      "confidence_95_upper": 33.56
+    },
+    {
+      "hour": 9,
+      "timestamp": "2024-04-25T09:00:00",
+      "forecast_mw": 55.02,
+      "confidence_80_lower": 41.27,
+      "confidence_80_upper": 68.78,
+      "confidence_95_lower": 34.39,
+      "confidence_95_upper": 75.66
+    },
+    {
+      "hour": 10,
+      "timestamp": "2024-04-25T10:00:00",
+      "forecast_mw": 101.56,
+      "confidence_80_lower": 76.17,
+      "confidence_80_upper": 126.94,
+      "confidence_95_lower": 63.47,
+      "confidence_95_upper": 139.64
+    },
+    {
+      "hour": 11,
+      "timestamp": "2024-04-25T11:00:00",
+      "forecast_mw": 140.2,
+      "confidence_80_lower": 105.15,
+      "confidence_80_upper": 175.25,
+      "confidence_95_lower": 87.63,
+      "confidence_95_upper": 192.78
+    },
+    {
+      "hour": 12,
+      "timestamp": "2024-04-25T12:00:00",
+      "forecast_mw": 139.86,
+      "confidence_80_lower": 118.88,
+      "confidence_80_upper": 160.84,
+      "confidence_95_lower": 108.39,
+      "confidence_95_upper": 171.33
+    },
+    {
+      "hour": 13,
+      "timestamp": "2024-04-25T13:00:00",
+      "forecast_mw": 144.27,
+      "confidence_80_lower": 122.63,
+      "confidence_80_upper": 165.91,
+      "confidence_95_lower": 111.81,
+      "confidence_95_upper": 176.73
+    },
+    {
+      "hour": 14,
+      "timestamp": "2024-04-25T14:00:00",
+      "forecast_mw": 119.58,
+      "confidence_80_lower": 101.64,
+      "confidence_80_upper": 137.51,
+      "confidence_95_lower": 92.67,
+      "confidence_95_upper": 146.48
+    },
+    {
+      "hour": 15,
+      "timestamp": "2024-04-25T15:00:00",
+      "forecast_mw": 96.87,
+      "confidence_80_lower": 82.34,
+      "confidence_80_upper": 111.4,
+      "confidence_95_lower": 75.07,
+      "confidence_95_upper": 118.66
+    },
+    {
+      "hour": 16,
+      "timestamp": "2024-04-25T16:00:00",
+      "forecast_mw": 59.89,
+      "confidence_80_lower": 50.9,
+      "confidence_80_upper": 68.87,
+      "confidence_95_lower": 46.41,
+      "confidence_95_upper": 73.36
+    },
+    {
+      "hour": 17,
+      "timestamp": "2024-04-25T17:00:00",
+      "forecast_mw": 24.56,
+      "confidence_80_lower": 18.42,
+      "confidence_80_upper": 30.7,
+      "confidence_95_lower": 15.35,
+      "confidence_95_upper": 33.77
+    },
+    {
+      "hour": 18,
+      "timestamp": "2024-04-25T18:00:00",
+      "forecast_mw": 2.67,
+      "confidence_80_lower": 2.0,
+      "confidence_80_upper": 3.33,
+      "confidence_95_lower": 1.67,
+      "confidence_95_upper": 3.67
+    },
+    {
+      "hour": 19,
+      "timestamp": "2024-04-25T19:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 20,
+      "timestamp": "2024-04-25T20:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 21,
+      "timestamp": "2024-04-25T21:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 22,
+      "timestamp": "2024-04-25T22:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 23,
+      "timestamp": "2024-04-25T23:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    }
+  ],
+  "Raichur Solar": [
+    {
+      "hour": 0,
+      "timestamp": "2024-04-25T00:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 1,
+      "timestamp": "2024-04-25T01:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 2,
+      "timestamp": "2024-04-25T02:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 3,
+      "timestamp": "2024-04-25T03:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 4,
+      "timestamp": "2024-04-25T04:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 5,
+      "timestamp": "2024-04-25T05:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 6,
+      "timestamp": "2024-04-25T06:00:00",
+      "forecast_mw": 1.65,
+      "confidence_80_lower": 1.23,
+      "confidence_80_upper": 2.06,
+      "confidence_95_lower": 1.03,
+      "confidence_95_upper": 2.26
+    },
+    {
+      "hour": 7,
+      "timestamp": "2024-04-25T07:00:00",
+      "forecast_mw": 1.65,
+      "confidence_80_lower": 1.24,
+      "confidence_80_upper": 2.07,
+      "confidence_95_lower": 1.03,
+      "confidence_95_upper": 2.28
+    },
+    {
+      "hour": 8,
+      "timestamp": "2024-04-25T08:00:00",
+      "forecast_mw": 14.84,
+      "confidence_80_lower": 11.13,
+      "confidence_80_upper": 18.55,
+      "confidence_95_lower": 9.28,
+      "confidence_95_upper": 20.41
+    },
+    {
+      "hour": 9,
+      "timestamp": "2024-04-25T09:00:00",
+      "forecast_mw": 38.88,
+      "confidence_80_lower": 29.16,
+      "confidence_80_upper": 48.6,
+      "confidence_95_lower": 24.3,
+      "confidence_95_upper": 53.46
+    },
+    {
+      "hour": 10,
+      "timestamp": "2024-04-25T10:00:00",
+      "forecast_mw": 60.44,
+      "confidence_80_lower": 45.33,
+      "confidence_80_upper": 75.55,
+      "confidence_95_lower": 37.77,
+      "confidence_95_upper": 83.1
+    },
+    {
+      "hour": 11,
+      "timestamp": "2024-04-25T11:00:00",
+      "forecast_mw": 71.49,
+      "confidence_80_lower": 53.62,
+      "confidence_80_upper": 89.36,
+      "confidence_95_lower": 44.68,
+      "confidence_95_upper": 98.29
+    },
+    {
+      "hour": 12,
+      "timestamp": "2024-04-25T12:00:00",
+      "forecast_mw": 95.34,
+      "confidence_80_lower": 81.04,
+      "confidence_80_upper": 109.64,
+      "confidence_95_lower": 73.89,
+      "confidence_95_upper": 116.79
+    },
+    {
+      "hour": 13,
+      "timestamp": "2024-04-25T13:00:00",
+      "forecast_mw": 105.68,
+      "confidence_80_lower": 89.83,
+      "confidence_80_upper": 121.53,
+      "confidence_95_lower": 81.9,
+      "confidence_95_upper": 129.46
+    },
+    {
+      "hour": 14,
+      "timestamp": "2024-04-25T14:00:00",
+      "forecast_mw": 88.04,
+      "confidence_80_lower": 74.83,
+      "confidence_80_upper": 101.24,
+      "confidence_95_lower": 68.23,
+      "confidence_95_upper": 107.84
+    },
+    {
+      "hour": 15,
+      "timestamp": "2024-04-25T15:00:00",
+      "forecast_mw": 68.05,
+      "confidence_80_lower": 57.84,
+      "confidence_80_upper": 78.25,
+      "confidence_95_lower": 52.74,
+      "confidence_95_upper": 83.36
+    },
+    {
+      "hour": 16,
+      "timestamp": "2024-04-25T16:00:00",
+      "forecast_mw": 35.45,
+      "confidence_80_lower": 30.13,
+      "confidence_80_upper": 40.77,
+      "confidence_95_lower": 27.47,
+      "confidence_95_upper": 43.43
+    },
+    {
+      "hour": 17,
+      "timestamp": "2024-04-25T17:00:00",
+      "forecast_mw": 13.63,
+      "confidence_80_lower": 10.22,
+      "confidence_80_upper": 17.04,
+      "confidence_95_lower": 8.52,
+      "confidence_95_upper": 18.74
+    },
+    {
+      "hour": 18,
+      "timestamp": "2024-04-25T18:00:00",
+      "forecast_mw": 1.77,
+      "confidence_80_lower": 1.33,
+      "confidence_80_upper": 2.21,
+      "confidence_95_lower": 1.1,
+      "confidence_95_upper": 2.43
+    },
+    {
+      "hour": 19,
+      "timestamp": "2024-04-25T19:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 20,
+      "timestamp": "2024-04-25T20:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 21,
+      "timestamp": "2024-04-25T21:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 22,
+      "timestamp": "2024-04-25T22:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 23,
+      "timestamp": "2024-04-25T23:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    }
+  ],
+  "Bidar Solar": [
+    {
+      "hour": 0,
+      "timestamp": "2024-04-25T00:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 1,
+      "timestamp": "2024-04-25T01:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 2,
+      "timestamp": "2024-04-25T02:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 3,
+      "timestamp": "2024-04-25T03:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 4,
+      "timestamp": "2024-04-25T04:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 5,
+      "timestamp": "2024-04-25T05:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 6,
+      "timestamp": "2024-04-25T06:00:00",
+      "forecast_mw": 1.17,
+      "confidence_80_lower": 0.88,
+      "confidence_80_upper": 1.47,
+      "confidence_95_lower": 0.73,
+      "confidence_95_upper": 1.61
+    },
+    {
+      "hour": 7,
+      "timestamp": "2024-04-25T07:00:00",
+      "forecast_mw": 1.14,
+      "confidence_80_lower": 0.85,
+      "confidence_80_upper": 1.42,
+      "confidence_95_lower": 0.71,
+      "confidence_95_upper": 1.56
+    },
+    {
+      "hour": 8,
+      "timestamp": "2024-04-25T08:00:00",
+      "forecast_mw": 10.54,
+      "confidence_80_lower": 7.91,
+      "confidence_80_upper": 13.18,
+      "confidence_95_lower": 6.59,
+      "confidence_95_upper": 14.49
+    },
+    {
+      "hour": 9,
+      "timestamp": "2024-04-25T09:00:00",
+      "forecast_mw": 26.09,
+      "confidence_80_lower": 19.56,
+      "confidence_80_upper": 32.61,
+      "confidence_95_lower": 16.3,
+      "confidence_95_upper": 35.87
+    },
+    {
+      "hour": 10,
+      "timestamp": "2024-04-25T10:00:00",
+      "forecast_mw": 40.2,
+      "confidence_80_lower": 30.15,
+      "confidence_80_upper": 50.25,
+      "confidence_95_lower": 25.13,
+      "confidence_95_upper": 55.28
+    },
+    {
+      "hour": 11,
+      "timestamp": "2024-04-25T11:00:00",
+      "forecast_mw": 57.98,
+      "confidence_80_lower": 43.49,
+      "confidence_80_upper": 72.48,
+      "confidence_95_lower": 36.24,
+      "confidence_95_upper": 79.73
+    },
+    {
+      "hour": 12,
+      "timestamp": "2024-04-25T12:00:00",
+      "forecast_mw": 59.04,
+      "confidence_80_lower": 50.18,
+      "confidence_80_upper": 67.89,
+      "confidence_95_lower": 45.76,
+      "confidence_95_upper": 72.32
+    },
+    {
+      "hour": 13,
+      "timestamp": "2024-04-25T13:00:00",
+      "forecast_mw": 70.02,
+      "confidence_80_lower": 59.51,
+      "confidence_80_upper": 80.52,
+      "confidence_95_lower": 54.26,
+      "confidence_95_upper": 85.77
+    },
+    {
+      "hour": 14,
+      "timestamp": "2024-04-25T14:00:00",
+      "forecast_mw": 60.77,
+      "confidence_80_lower": 51.65,
+      "confidence_80_upper": 69.88,
+      "confidence_95_lower": 47.1,
+      "confidence_95_upper": 74.44
+    },
+    {
+      "hour": 15,
+      "timestamp": "2024-04-25T15:00:00",
+      "forecast_mw": 42.43,
+      "confidence_80_lower": 36.07,
+      "confidence_80_upper": 48.8,
+      "confidence_95_lower": 32.88,
+      "confidence_95_upper": 51.98
+    },
+    {
+      "hour": 16,
+      "timestamp": "2024-04-25T16:00:00",
+      "forecast_mw": 26.72,
+      "confidence_80_lower": 22.71,
+      "confidence_80_upper": 30.73,
+      "confidence_95_lower": 20.71,
+      "confidence_95_upper": 32.73
+    },
+    {
+      "hour": 17,
+      "timestamp": "2024-04-25T17:00:00",
+      "forecast_mw": 9.62,
+      "confidence_80_lower": 7.22,
+      "confidence_80_upper": 12.03,
+      "confidence_95_lower": 6.01,
+      "confidence_95_upper": 13.23
+    },
+    {
+      "hour": 18,
+      "timestamp": "2024-04-25T18:00:00",
+      "forecast_mw": 1.14,
+      "confidence_80_lower": 0.85,
+      "confidence_80_upper": 1.42,
+      "confidence_95_lower": 0.71,
+      "confidence_95_upper": 1.57
+    },
+    {
+      "hour": 19,
+      "timestamp": "2024-04-25T19:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 20,
+      "timestamp": "2024-04-25T20:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 21,
+      "timestamp": "2024-04-25T21:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 22,
+      "timestamp": "2024-04-25T22:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    },
+    {
+      "hour": 23,
+      "timestamp": "2024-04-25T23:00:00",
+      "forecast_mw": 0.0,
+      "confidence_80_lower": 0,
+      "confidence_80_upper": 0.0,
+      "confidence_95_lower": 0,
+      "confidence_95_upper": 0.0
+    }
+  ],
+  "Chitradurga Wind Cluster": [
+    {
+      "hour": 0,
+      "timestamp": "2024-04-25T00:00:00",
+      "forecast_mw": 93.69,
+      "confidence_80_lower": 74.95,
+      "confidence_80_upper": 112.43,
+      "confidence_95_lower": 65.58,
+      "confidence_95_upper": 121.8
+    },
+    {
+      "hour": 1,
+      "timestamp": "2024-04-25T01:00:00",
+      "forecast_mw": 89.43,
+      "confidence_80_lower": 71.54,
+      "confidence_80_upper": 107.32,
+      "confidence_95_lower": 62.6,
+      "confidence_95_upper": 116.26
+    },
+    {
+      "hour": 2,
+      "timestamp": "2024-04-25T02:00:00",
+      "forecast_mw": 62.38,
+      "confidence_80_lower": 49.9,
+      "confidence_80_upper": 74.85,
+      "confidence_95_lower": 43.67,
+      "confidence_95_upper": 81.09
+    },
+    {
+      "hour": 3,
+      "timestamp": "2024-04-25T03:00:00",
+      "forecast_mw": 86.17,
+      "confidence_80_lower": 68.94,
+      "confidence_80_upper": 103.41,
+      "confidence_95_lower": 60.32,
+      "confidence_95_upper": 112.02
+    },
+    {
+      "hour": 4,
+      "timestamp": "2024-04-25T04:00:00",
+      "forecast_mw": 74.9,
+      "confidence_80_lower": 59.92,
+      "confidence_80_upper": 89.88,
+      "confidence_95_lower": 52.43,
+      "confidence_95_upper": 97.37
+    },
+    {
+      "hour": 5,
+      "timestamp": "2024-04-25T05:00:00",
+      "forecast_mw": 80.06,
+      "confidence_80_lower": 64.04,
+      "confidence_80_upper": 96.07,
+      "confidence_95_lower": 56.04,
+      "confidence_95_upper": 104.07
+    },
+    {
+      "hour": 6,
+      "timestamp": "2024-04-25T06:00:00",
+      "forecast_mw": 99.84,
+      "confidence_80_lower": 79.87,
+      "confidence_80_upper": 119.81,
+      "confidence_95_lower": 69.89,
+      "confidence_95_upper": 129.8
+    },
+    {
+      "hour": 7,
+      "timestamp": "2024-04-25T07:00:00",
+      "forecast_mw": 68.64,
+      "confidence_80_lower": 54.91,
+      "confidence_80_upper": 82.37,
+      "confidence_95_lower": 48.05,
+      "confidence_95_upper": 89.23
+    },
+    {
+      "hour": 8,
+      "timestamp": "2024-04-25T08:00:00",
+      "forecast_mw": 91.97,
+      "confidence_80_lower": 73.57,
+      "confidence_80_upper": 110.36,
+      "confidence_95_lower": 64.38,
+      "confidence_95_upper": 119.55
+    },
+    {
+      "hour": 9,
+      "timestamp": "2024-04-25T09:00:00",
+      "forecast_mw": 77.18,
+      "confidence_80_lower": 61.75,
+      "confidence_80_upper": 92.62,
+      "confidence_95_lower": 54.03,
+      "confidence_95_upper": 100.34
+    },
+    {
+      "hour": 10,
+      "timestamp": "2024-04-25T10:00:00",
+      "forecast_mw": 94.75,
+      "confidence_80_lower": 75.8,
+      "confidence_80_upper": 113.7,
+      "confidence_95_lower": 66.33,
+      "confidence_95_upper": 123.18
+    },
+    {
+      "hour": 11,
+      "timestamp": "2024-04-25T11:00:00",
+      "forecast_mw": 91.23,
+      "confidence_80_lower": 72.98,
+      "confidence_80_upper": 109.48,
+      "confidence_95_lower": 63.86,
+      "confidence_95_upper": 118.6
+    },
+    {
+      "hour": 12,
+      "timestamp": "2024-04-25T12:00:00",
+      "forecast_mw": 62.66,
+      "confidence_80_lower": 50.13,
+      "confidence_80_upper": 75.19,
+      "confidence_95_lower": 43.86,
+      "confidence_95_upper": 81.46
+    },
+    {
+      "hour": 13,
+      "timestamp": "2024-04-25T13:00:00",
+      "forecast_mw": 89.89,
+      "confidence_80_lower": 71.91,
+      "confidence_80_upper": 107.87,
+      "confidence_95_lower": 62.92,
+      "confidence_95_upper": 116.86
+    },
+    {
+      "hour": 14,
+      "timestamp": "2024-04-25T14:00:00",
+      "forecast_mw": 118.74,
+      "confidence_80_lower": 94.99,
+      "confidence_80_upper": 142.48,
+      "confidence_95_lower": 83.11,
+      "confidence_95_upper": 150
+    },
+    {
+      "hour": 15,
+      "timestamp": "2024-04-25T15:00:00",
+      "forecast_mw": 97.47,
+      "confidence_80_lower": 77.97,
+      "confidence_80_upper": 116.96,
+      "confidence_95_lower": 68.23,
+      "confidence_95_upper": 126.7
+    },
+    {
+      "hour": 16,
+      "timestamp": "2024-04-25T16:00:00",
+      "forecast_mw": 98.16,
+      "confidence_80_lower": 78.53,
+      "confidence_80_upper": 117.8,
+      "confidence_95_lower": 68.71,
+      "confidence_95_upper": 127.61
+    },
+    {
+      "hour": 17,
+      "timestamp": "2024-04-25T17:00:00",
+      "forecast_mw": 99.71,
+      "confidence_80_lower": 79.76,
+      "confidence_80_upper": 119.65,
+      "confidence_95_lower": 69.79,
+      "confidence_95_upper": 129.62
+    },
+    {
+      "hour": 18,
+      "timestamp": "2024-04-25T18:00:00",
+      "forecast_mw": 92.39,
+      "confidence_80_lower": 73.91,
+      "confidence_80_upper": 110.87,
+      "confidence_95_lower": 64.67,
+      "confidence_95_upper": 120.11
+    },
+    {
+      "hour": 19,
+      "timestamp": "2024-04-25T19:00:00",
+      "forecast_mw": 87.9,
+      "confidence_80_lower": 70.32,
+      "confidence_80_upper": 105.48,
+      "confidence_95_lower": 61.53,
+      "confidence_95_upper": 114.27
+    },
+    {
+      "hour": 20,
+      "timestamp": "2024-04-25T20:00:00",
+      "forecast_mw": 82.88,
+      "confidence_80_lower": 66.3,
+      "confidence_80_upper": 99.45,
+      "confidence_95_lower": 58.01,
+      "confidence_95_upper": 107.74
+    },
+    {
+      "hour": 21,
+      "timestamp": "2024-04-25T21:00:00",
+      "forecast_mw": 64.48,
+      "confidence_80_lower": 51.58,
+      "confidence_80_upper": 77.37,
+      "confidence_95_lower": 45.14,
+      "confidence_95_upper": 83.82
+    },
+    {
+      "hour": 22,
+      "timestamp": "2024-04-25T22:00:00",
+      "forecast_mw": 70.32,
+      "confidence_80_lower": 56.26,
+      "confidence_80_upper": 84.39,
+      "confidence_95_lower": 49.23,
+      "confidence_95_upper": 91.42
+    },
+    {
+      "hour": 23,
+      "timestamp": "2024-04-25T23:00:00",
+      "forecast_mw": 90.18,
+      "confidence_80_lower": 72.14,
+      "confidence_80_upper": 108.21,
+      "confidence_95_lower": 63.13,
+      "confidence_95_upper": 117.23
+    }
+  ],
+  "Gadag Wind Farm": [
+    {
+      "hour": 0,
+      "timestamp": "2024-04-25T00:00:00",
+      "forecast_mw": 79.09,
+      "confidence_80_lower": 63.27,
+      "confidence_80_upper": 94.91,
+      "confidence_95_lower": 55.36,
+      "confidence_95_upper": 102.82
+    },
+    {
+      "hour": 1,
+      "timestamp": "2024-04-25T01:00:00",
+      "forecast_mw": 115.83,
+      "confidence_80_lower": 92.67,
+      "confidence_80_upper": 139.0,
+      "confidence_95_lower": 81.08,
+      "confidence_95_upper": 150.58
+    },
+    {
+      "hour": 2,
+      "timestamp": "2024-04-25T02:00:00",
+      "forecast_mw": 86.11,
+      "confidence_80_lower": 68.89,
+      "confidence_80_upper": 103.34,
+      "confidence_95_lower": 60.28,
+      "confidence_95_upper": 111.95
+    },
+    {
+      "hour": 3,
+      "timestamp": "2024-04-25T03:00:00",
+      "forecast_mw": 112.89,
+      "confidence_80_lower": 90.31,
+      "confidence_80_upper": 135.47,
+      "confidence_95_lower": 79.03,
+      "confidence_95_upper": 146.76
+    },
+    {
+      "hour": 4,
+      "timestamp": "2024-04-25T04:00:00",
+      "forecast_mw": 116.22,
+      "confidence_80_lower": 92.98,
+      "confidence_80_upper": 139.46,
+      "confidence_95_lower": 81.35,
+      "confidence_95_upper": 151.08
+    },
+    {
+      "hour": 5,
+      "timestamp": "2024-04-25T05:00:00",
+      "forecast_mw": 84.35,
+      "confidence_80_lower": 67.48,
+      "confidence_80_upper": 101.22,
+      "confidence_95_lower": 59.04,
+      "confidence_95_upper": 109.65
+    },
+    {
+      "hour": 6,
+      "timestamp": "2024-04-25T06:00:00",
+      "forecast_mw": 99.36,
+      "confidence_80_lower": 79.49,
+      "confidence_80_upper": 119.23,
+      "confidence_95_lower": 69.55,
+      "confidence_95_upper": 129.17
+    },
+    {
+      "hour": 7,
+      "timestamp": "2024-04-25T07:00:00",
+      "forecast_mw": 92.54,
+      "confidence_80_lower": 74.03,
+      "confidence_80_upper": 111.05,
+      "confidence_95_lower": 64.78,
+      "confidence_95_upper": 120.3
+    },
+    {
+      "hour": 8,
+      "timestamp": "2024-04-25T08:00:00",
+      "forecast_mw": 75.8,
+      "confidence_80_lower": 60.64,
+      "confidence_80_upper": 90.96,
+      "confidence_95_lower": 53.06,
+      "confidence_95_upper": 98.54
+    },
+    {
+      "hour": 9,
+      "timestamp": "2024-04-25T09:00:00",
+      "forecast_mw": 114.54,
+      "confidence_80_lower": 91.63,
+      "confidence_80_upper": 137.45,
+      "confidence_95_lower": 80.18,
+      "confidence_95_upper": 148.91
+    },
+    {
+      "hour": 10,
+      "timestamp": "2024-04-25T10:00:00",
+      "forecast_mw": 111.68,
+      "confidence_80_lower": 89.35,
+      "confidence_80_upper": 134.02,
+      "confidence_95_lower": 78.18,
+      "confidence_95_upper": 145.19
+    },
+    {
+      "hour": 11,
+      "timestamp": "2024-04-25T11:00:00",
+      "forecast_mw": 80.32,
+      "confidence_80_lower": 64.26,
+      "confidence_80_upper": 96.39,
+      "confidence_95_lower": 56.22,
+      "confidence_95_upper": 104.42
+    },
+    {
+      "hour": 12,
+      "timestamp": "2024-04-25T12:00:00",
+      "forecast_mw": 104.16,
+      "confidence_80_lower": 83.32,
+      "confidence_80_upper": 124.99,
+      "confidence_95_lower": 72.91,
+      "confidence_95_upper": 135.4
+    },
+    {
+      "hour": 13,
+      "timestamp": "2024-04-25T13:00:00",
+      "forecast_mw": 81.79,
+      "confidence_80_lower": 65.44,
+      "confidence_80_upper": 98.15,
+      "confidence_95_lower": 57.26,
+      "confidence_95_upper": 106.33
+    },
+    {
+      "hour": 14,
+      "timestamp": "2024-04-25T14:00:00",
+      "forecast_mw": 97.2,
+      "confidence_80_lower": 77.76,
+      "confidence_80_upper": 116.64,
+      "confidence_95_lower": 68.04,
+      "confidence_95_upper": 126.36
+    },
+    {
+      "hour": 15,
+      "timestamp": "2024-04-25T15:00:00",
+      "forecast_mw": 111.98,
+      "confidence_80_lower": 89.58,
+      "confidence_80_upper": 134.37,
+      "confidence_95_lower": 78.38,
+      "confidence_95_upper": 145.57
+    },
+    {
+      "hour": 16,
+      "timestamp": "2024-04-25T16:00:00",
+      "forecast_mw": 124.65,
+      "confidence_80_lower": 99.72,
+      "confidence_80_upper": 149.58,
+      "confidence_95_lower": 87.25,
+      "confidence_95_upper": 162.04
+    },
+    {
+      "hour": 17,
+      "timestamp": "2024-04-25T17:00:00",
+      "forecast_mw": 121.22,
+      "confidence_80_lower": 96.97,
+      "confidence_80_upper": 145.46,
+      "confidence_95_lower": 84.85,
+      "confidence_95_upper": 157.58
+    },
+    {
+      "hour": 18,
+      "timestamp": "2024-04-25T18:00:00",
+      "forecast_mw": 137.04,
+      "confidence_80_lower": 109.63,
+      "confidence_80_upper": 164.44,
+      "confidence_95_lower": 95.93,
+      "confidence_95_upper": 178.15
+    },
+    {
+      "hour": 19,
+      "timestamp": "2024-04-25T19:00:00",
+      "forecast_mw": 156.27,
+      "confidence_80_lower": 125.01,
+      "confidence_80_upper": 187.52,
+      "confidence_95_lower": 109.39,
+      "confidence_95_upper": 200
+    },
+    {
+      "hour": 20,
+      "timestamp": "2024-04-25T20:00:00",
+      "forecast_mw": 150.97,
+      "confidence_80_lower": 120.78,
+      "confidence_80_upper": 181.17,
+      "confidence_95_lower": 105.68,
+      "confidence_95_upper": 196.26
+    },
+    {
+      "hour": 21,
+      "timestamp": "2024-04-25T21:00:00",
+      "forecast_mw": 76.44,
+      "confidence_80_lower": 61.15,
+      "confidence_80_upper": 91.73,
+      "confidence_95_lower": 53.51,
+      "confidence_95_upper": 99.38
+    },
+    {
+      "hour": 22,
+      "timestamp": "2024-04-25T22:00:00",
+      "forecast_mw": 102.21,
+      "confidence_80_lower": 81.77,
+      "confidence_80_upper": 122.66,
+      "confidence_95_lower": 71.55,
+      "confidence_95_upper": 132.88
+    },
+    {
+      "hour": 23,
+      "timestamp": "2024-04-25T23:00:00",
+      "forecast_mw": 106.09,
+      "confidence_80_lower": 84.88,
+      "confidence_80_upper": 127.31,
+      "confidence_95_lower": 74.27,
+      "confidence_95_upper": 137.92
+    }
+  ],
+  "Davangere Wind": [
+    {
+      "hour": 0,
+      "timestamp": "2024-04-25T00:00:00",
+      "forecast_mw": 58.77,
+      "confidence_80_lower": 47.01,
+      "confidence_80_upper": 70.52,
+      "confidence_95_lower": 41.14,
+      "confidence_95_upper": 76.4
+    },
+    {
+      "hour": 1,
+      "timestamp": "2024-04-25T01:00:00",
+      "forecast_mw": 52.04,
+      "confidence_80_lower": 41.63,
+      "confidence_80_upper": 62.45,
+      "confidence_95_lower": 36.43,
+      "confidence_95_upper": 67.65
+    },
+    {
+      "hour": 2,
+      "timestamp": "2024-04-25T02:00:00",
+      "forecast_mw": 59.4,
+      "confidence_80_lower": 47.52,
+      "confidence_80_upper": 71.28,
+      "confidence_95_lower": 41.58,
+      "confidence_95_upper": 77.22
+    },
+    {
+      "hour": 3,
+      "timestamp": "2024-04-25T03:00:00",
+      "forecast_mw": 42.62,
+      "confidence_80_lower": 34.1,
+      "confidence_80_upper": 51.15,
+      "confidence_95_lower": 29.84,
+      "confidence_95_upper": 55.41
+    },
+    {
+      "hour": 4,
+      "timestamp": "2024-04-25T04:00:00",
+      "forecast_mw": 65.49,
+      "confidence_80_lower": 52.39,
+      "confidence_80_upper": 78.58,
+      "confidence_95_lower": 45.84,
+      "confidence_95_upper": 85.13
+    },
+    {
+      "hour": 5,
+      "timestamp": "2024-04-25T05:00:00",
+      "forecast_mw": 71.82,
+      "confidence_80_lower": 57.46,
+      "confidence_80_upper": 86.19,
+      "confidence_95_lower": 50.28,
+      "confidence_95_upper": 93.37
+    },
+    {
+      "hour": 6,
+      "timestamp": "2024-04-25T06:00:00",
+      "forecast_mw": 47.04,
+      "confidence_80_lower": 37.63,
+      "confidence_80_upper": 56.45,
+      "confidence_95_lower": 32.93,
+      "confidence_95_upper": 61.15
+    },
+    {
+      "hour": 7,
+      "timestamp": "2024-04-25T07:00:00",
+      "forecast_mw": 62.74,
+      "confidence_80_lower": 50.19,
+      "confidence_80_upper": 75.29,
+      "confidence_95_lower": 43.92,
+      "confidence_95_upper": 81.57
+    },
+    {
+      "hour": 8,
+      "timestamp": "2024-04-25T08:00:00",
+      "forecast_mw": 51.85,
+      "confidence_80_lower": 41.48,
+      "confidence_80_upper": 62.22,
+      "confidence_95_lower": 36.29,
+      "confidence_95_upper": 67.4
+    },
+    {
+      "hour": 9,
+      "timestamp": "2024-04-25T09:00:00",
+      "forecast_mw": 62.06,
+      "confidence_80_lower": 49.65,
+      "confidence_80_upper": 74.48,
+      "confidence_95_lower": 43.44,
+      "confidence_95_upper": 80.68
+    },
+    {
+      "hour": 10,
+      "timestamp": "2024-04-25T10:00:00",
+      "forecast_mw": 52.05,
+      "confidence_80_lower": 41.64,
+      "confidence_80_upper": 62.46,
+      "confidence_95_lower": 36.43,
+      "confidence_95_upper": 67.66
+    },
+    {
+      "hour": 11,
+      "timestamp": "2024-04-25T11:00:00",
+      "forecast_mw": 69.81,
+      "confidence_80_lower": 55.85,
+      "confidence_80_upper": 83.78,
+      "confidence_95_lower": 48.87,
+      "confidence_95_upper": 90.76
+    },
+    {
+      "hour": 12,
+      "timestamp": "2024-04-25T12:00:00",
+      "forecast_mw": 51.8,
+      "confidence_80_lower": 41.44,
+      "confidence_80_upper": 62.15,
+      "confidence_95_lower": 36.26,
+      "confidence_95_upper": 67.33
+    },
+    {
+      "hour": 13,
+      "timestamp": "2024-04-25T13:00:00",
+      "forecast_mw": 75.51,
+      "confidence_80_lower": 60.41,
+      "confidence_80_upper": 90.61,
+      "confidence_95_lower": 52.86,
+      "confidence_95_upper": 98.17
+    },
+    {
+      "hour": 14,
+      "timestamp": "2024-04-25T14:00:00",
+      "forecast_mw": 72.76,
+      "confidence_80_lower": 58.2,
+      "confidence_80_upper": 87.31,
+      "confidence_95_lower": 50.93,
+      "confidence_95_upper": 94.58
+    },
+    {
+      "hour": 15,
+      "timestamp": "2024-04-25T15:00:00",
+      "forecast_mw": 90.87,
+      "confidence_80_lower": 72.69,
+      "confidence_80_upper": 109.04,
+      "confidence_95_lower": 63.61,
+      "confidence_95_upper": 118.13
+    },
+    {
+      "hour": 16,
+      "timestamp": "2024-04-25T16:00:00",
+      "forecast_mw": 98.28,
+      "confidence_80_lower": 78.62,
+      "confidence_80_upper": 117.94,
+      "confidence_95_lower": 68.8,
+      "confidence_95_upper": 120
+    },
+    {
+      "hour": 17,
+      "timestamp": "2024-04-25T17:00:00",
+      "forecast_mw": 59.84,
+      "confidence_80_lower": 47.88,
+      "confidence_80_upper": 71.81,
+      "confidence_95_lower": 41.89,
+      "confidence_95_upper": 77.8
+    },
+    {
+      "hour": 18,
+      "timestamp": "2024-04-25T18:00:00",
+      "forecast_mw": 83.2,
+      "confidence_80_lower": 66.56,
+      "confidence_80_upper": 99.84,
+      "confidence_95_lower": 58.24,
+      "confidence_95_upper": 108.16
+    },
+    {
+      "hour": 19,
+      "timestamp": "2024-04-25T19:00:00",
+      "forecast_mw": 68.37,
+      "confidence_80_lower": 54.69,
+      "confidence_80_upper": 82.04,
+      "confidence_95_lower": 47.86,
+      "confidence_95_upper": 88.88
+    },
+    {
+      "hour": 20,
+      "timestamp": "2024-04-25T20:00:00",
+      "forecast_mw": 79.75,
+      "confidence_80_lower": 63.8,
+      "confidence_80_upper": 95.69,
+      "confidence_95_lower": 55.82,
+      "confidence_95_upper": 103.67
+    },
+    {
+      "hour": 21,
+      "timestamp": "2024-04-25T21:00:00",
+      "forecast_mw": 53.72,
+      "confidence_80_lower": 42.97,
+      "confidence_80_upper": 64.46,
+      "confidence_95_lower": 37.6,
+      "confidence_95_upper": 69.83
+    },
+    {
+      "hour": 22,
+      "timestamp": "2024-04-25T22:00:00",
+      "forecast_mw": 51.06,
+      "confidence_80_lower": 40.85,
+      "confidence_80_upper": 61.28,
+      "confidence_95_lower": 35.74,
+      "confidence_95_upper": 66.38
+    },
+    {
+      "hour": 23,
+      "timestamp": "2024-04-25T23:00:00",
+      "forecast_mw": 67.21,
+      "confidence_80_lower": 53.77,
+      "confidence_80_upper": 80.65,
+      "confidence_95_lower": 47.05,
+      "confidence_95_upper": 87.37
+    }
+  ]
+}
